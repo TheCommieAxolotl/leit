@@ -266,6 +266,8 @@
   "option": "/icons/option.svg",
   "options.alt": "/icons/options/options-alt.svg",
   "options": "/icons/options/options.svg",
+  "package.open": "/icons/package/package-open.svg",
+  "package": "/icons/package/package.svg",
   "paperplane.horizontal": "/icons/paperplane/paperplane-horizontal.svg",
   "paperplane": "/icons/paperplane/paperplane.svg",
   "paragraph.rtl": "/icons/paragraph/paragraph-rtl.svg",

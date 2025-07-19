@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-07-19T04:30:59.507Z
+Generated on 2025-07-19T04:45:15.474Z
 
 ---
 
@@ -273,6 +273,8 @@ Generated on 2025-07-19T04:30:59.507Z
 | option | [/icons/option.svg](./icons/option.svg) | ![option](./icons/option.svg) |
 | options.alt | [/icons/options/options-alt.svg](./icons/options/options-alt.svg) | ![options.alt](./icons/options/options-alt.svg) |
 | options | [/icons/options/options.svg](./icons/options/options.svg) | ![options](./icons/options/options.svg) |
+| package.open | [/icons/package/package-open.svg](./icons/package/package-open.svg) | ![package.open](./icons/package/package-open.svg) |
+| package | [/icons/package/package.svg](./icons/package/package.svg) | ![package](./icons/package/package.svg) |
 | paperplane.horizontal | [/icons/paperplane/paperplane-horizontal.svg](./icons/paperplane/paperplane-horizontal.svg) | ![paperplane.horizontal](./icons/paperplane/paperplane-horizontal.svg) |
 | paperplane | [/icons/paperplane/paperplane.svg](./icons/paperplane/paperplane.svg) | ![paperplane](./icons/paperplane/paperplane.svg) |
 | paragraph.rtl | [/icons/paragraph/paragraph-rtl.svg](./icons/paragraph/paragraph-rtl.svg) | ![paragraph.rtl](./icons/paragraph/paragraph-rtl.svg) |
