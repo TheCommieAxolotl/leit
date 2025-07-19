@@ -4,8 +4,8 @@
     "description": "",
     "scripts": {
         "organise": "tsx organise.ts",
-        "recolor": "tsx recolor.ts",
-        "make-icons": "pnpm recolor && pnpm organise"
+        "reformat": "tsx reformat.ts",
+        "make-icons": "pnpm reformat && pnpm organise"
     },
     "packageManager": "pnpm@10.11.0",
     "devDependencies": {

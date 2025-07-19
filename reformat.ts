@@ -5,7 +5,7 @@ import { optimize } from "svgo";
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
-const recolorIcons = async () => {
+const reformatIcons = async () => {
     const iconsDir = path.join(__dirname, "icons");
     const files = await fs.promises.readdir(iconsDir, {
         recursive: true,
@@ -16,6 +16,7 @@ const recolorIcons = async () => {
         ['="#007EFF"', '="green"'],
         ['="#FF0000"', '="blue"'],
         [/(?<!stop-color="red" )stop-opacity=/g, 'stop-color="red" stop-opacity='],
+        ['width="14" height="14"', 'width="16" height="16"'],
     ] as const;
 
     for (const file of files) {
@@ -42,4 +43,4 @@ const recolorIcons = async () => {
     }
 };
 
-recolorIcons();
+reformatIcons();
