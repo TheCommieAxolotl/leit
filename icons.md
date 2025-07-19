@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-07-19T03:34:37.113Z
+Generated on 2025-07-19T04:30:59.507Z
 
 ---
 
@@ -164,6 +164,8 @@ Generated on 2025-07-19T03:34:37.113Z
 | currency.sterling | [/icons/currency/currency-sterling.svg](./icons/currency/currency-sterling.svg) | ![currency.sterling](./icons/currency/currency-sterling.svg) |
 | currency.yen | [/icons/currency/currency-yen.svg](./icons/currency/currency-yen.svg) | ![currency.yen](./icons/currency/currency-yen.svg) |
 | currency | [/icons/currency/currency.svg](./icons/currency/currency.svg) | ![currency](./icons/currency/currency.svg) |
+| delete.forward | [/icons/delete/delete-forward.svg](./icons/delete/delete-forward.svg) | ![delete.forward](./icons/delete/delete-forward.svg) |
+| delete | [/icons/delete/delete.svg](./icons/delete/delete.svg) | ![delete](./icons/delete/delete.svg) |
 | delta.capital | [/icons/delta/delta-capital.svg](./icons/delta/delta-capital.svg) | ![delta.capital](./icons/delta/delta-capital.svg) |
 | delta | [/icons/delta/delta.svg](./icons/delta/delta.svg) | ![delta](./icons/delta/delta.svg) |
 | derivative.partial | [/icons/derivative/derivative-partial.svg](./icons/derivative/derivative-partial.svg) | ![derivative.partial](./icons/derivative/derivative-partial.svg) |
@@ -188,6 +190,7 @@ Generated on 2025-07-19T03:34:37.113Z
 | equal.approximately | [/icons/equal/equal-approximately.svg](./icons/equal/equal-approximately.svg) | ![equal.approximately](./icons/equal/equal-approximately.svg) |
 | equal.not | [/icons/equal/equal-not.svg](./icons/equal/equal-not.svg) | ![equal.not](./icons/equal/equal-not.svg) |
 | equal | [/icons/equal/equal.svg](./icons/equal/equal.svg) | ![equal](./icons/equal/equal.svg) |
+| escape | [/icons/escape.svg](./icons/escape.svg) | ![escape](./icons/escape.svg) |
 | exclamation.circle | [/icons/exclamation/exclamation-circle.svg](./icons/exclamation/exclamation-circle.svg) | ![exclamation.circle](./icons/exclamation/exclamation-circle.svg) |
 | exclamation.square | [/icons/exclamation/exclamation-square.svg](./icons/exclamation/exclamation-square.svg) | ![exclamation.square](./icons/exclamation/exclamation-square.svg) |
 | exclamation.triangle | [/icons/exclamation/exclamation-triangle.svg](./icons/exclamation/exclamation-triangle.svg) | ![exclamation.triangle](./icons/exclamation/exclamation-triangle.svg) |
