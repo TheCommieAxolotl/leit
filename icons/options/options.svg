@@ -1,4 +1,1 @@
-<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4.75 3V7M4.75 11V10M4.75 10V10C5.57843 10 6.25 9.32843 6.25 8.5V8.5C6.25 7.67157 5.57843 7 4.75 7V7M4.75 10V10C3.92157 10 3.25 9.32843 3.25 8.5V8.5C3.25 7.67157 3.92157 7 4.75 7V7" stroke="red" stroke-linecap="round"/>
-<path d="M9.25 3V4M9.25 4V4C8.42157 4 7.75 4.67157 7.75 5.5V5.5C7.75 6.32843 8.42157 7 9.25 7V7M9.25 4V4C10.0784 4 10.75 4.67157 10.75 5.5V5.5C10.75 6.32843 10.0784 7 9.25 7V7M9.25 7V11" stroke="red" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" viewBox="0 0 14 14"><path stroke="red" stroke-linecap="round" d="M4.75 3v4m0 4v-1m0 0v0a1.5 1.5 0 0 0 1.5-1.5v0A1.5 1.5 0 0 0 4.75 7v0m0 3v0a1.5 1.5 0 0 1-1.5-1.5v0A1.5 1.5 0 0 1 4.75 7v0m4.5-4v1m0 0v0a1.5 1.5 0 0 0-1.5 1.5v0A1.5 1.5 0 0 0 9.25 7v0m0-3v0a1.5 1.5 0 0 1 1.5 1.5v0A1.5 1.5 0 0 1 9.25 7v0m0 0v4"/></svg>

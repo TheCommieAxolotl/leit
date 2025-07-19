@@ -1,6 +1,8 @@
 import path from "path";
 import fs from "fs";
 
+import { optimize } from "svgo";
+
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 const recolorIcons = async () => {
@@ -30,7 +32,13 @@ const recolorIcons = async () => {
             newContent = newContent.replaceAll(oldColor, newColor);
         }
 
-        await fs.promises.writeFile(filePath, newContent);
+        // Optimize the SVG content
+        const optimized = optimize(newContent, {
+            path: filePath,
+            multipass: true,
+        });
+
+        await fs.promises.writeFile(filePath, optimized.data);
     }
 };
 

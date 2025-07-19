@@ -1,8 +1,1 @@
-<svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-    xmlns="http://www.w3.org/2000/svg">
-    <path d="M5 9V10M6.51267 10V11M8 9V10" stroke="green" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="5" cy="11.5" r="0.5" fill="green"/>
-    <circle cx="6.5" cy="12.5" r="0.5" fill="green"/>
-    <circle cx="8" cy="11.5" r="0.5" fill="green"/>
-    <path d="M5.3333 7.49677V6.65483C5.3333 5.71218 5.76179 4.82063 6.49788 4.23176V4.23176C7.73255 3.24403 9.51247 3.34261 10.6305 4.46065L10.9642 4.79431C11.9809 5.811 12.2329 7.3642 11.5899 8.65022L11.3375 9.15512C10.9263 9.97737 10.0859 10.4968 9.16663 10.4968V10.4968M5.3333 6.49677H3.7375C3.0685 6.49677 2.44365 6.8314 2.07268 7.38812C1.62505 8.05987 1.62507 8.93515 2.07298 9.60671L2.11175 9.66483C2.45842 10.1846 3.04187 10.4968 3.66663 10.4968" stroke="red" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" viewBox="0 0 14 14"><path stroke="green" stroke-linecap="round" stroke-linejoin="round" d="M5 9v1m1.513 0v1M8 9v1"/><circle cx="5" cy="11.5" r=".5" fill="green"/><circle cx="6.5" cy="12.5" r=".5" fill="green"/><circle cx="8" cy="11.5" r=".5" fill="green"/><path stroke="red" stroke-linecap="round" stroke-linejoin="round" d="M5.333 7.497v-.842c0-.943.429-1.834 1.165-2.423v0a3.103 3.103 0 0 1 4.132.229l.334.333a3.34 3.34 0 0 1 .626 3.856l-.252.505a2.43 2.43 0 0 1-2.171 1.342v0m-3.834-4H3.737a2 2 0 0 0-1.664 3.11l.039.058c.346.52.93.832 1.555.832"/></svg>

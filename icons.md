@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-07-19T04:45:15.474Z
+Generated on 2025-07-19T09:43:12.321Z
 
 ---
 
@@ -345,6 +345,8 @@ Generated on 2025-07-19T04:45:15.474Z
 | tangent | [/icons/tangent.svg](./icons/tangent.svg) | ![tangent](./icons/tangent.svg) |
 | textformat.size | [/icons/textformat/textformat-size.svg](./icons/textformat/textformat-size.svg) | ![textformat.size](./icons/textformat/textformat-size.svg) |
 | textformat | [/icons/textformat/textformat.svg](./icons/textformat/textformat.svg) | ![textformat](./icons/textformat/textformat.svg) |
+| ticket.ripped | [/icons/ticket/ticket-ripped.svg](./icons/ticket/ticket-ripped.svg) | ![ticket.ripped](./icons/ticket/ticket-ripped.svg) |
+| ticket | [/icons/ticket/ticket.svg](./icons/ticket/ticket.svg) | ![ticket](./icons/ticket/ticket.svg) |
 | tilde | [/icons/tilde.svg](./icons/tilde.svg) | ![tilde](./icons/tilde.svg) |
 | tree.dead | [/icons/tree/tree-dead.svg](./icons/tree/tree-dead.svg) | ![tree.dead](./icons/tree/tree-dead.svg) |
 | tree.pine | [/icons/tree/tree-pine.svg](./icons/tree/tree-pine.svg) | ![tree.pine](./icons/tree/tree-pine.svg) |

@@ -1,6 +1,1 @@
-<svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-    xmlns="http://www.w3.org/2000/svg">
-    <path d="M3 11V11C6.07271 10.6927 8.71935 8.70163 9.86622 5.83446L11 3" stroke="red" stroke-linecap="round"/>
-    <circle cx="3" cy="11" r="1" fill="green"/>
-    <circle cx="11" cy="3" r="1" fill="green"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" viewBox="0 0 14 14"><path stroke="red" stroke-linecap="round" d="M3 11v0a8.28 8.28 0 0 0 6.866-5.166L11 3"/><circle cx="3" cy="11" r="1" fill="green"/><circle cx="11" cy="3" r="1" fill="green"/></svg>

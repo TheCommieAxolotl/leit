@@ -1,9 +1,1 @@
-<svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-    xmlns="http://www.w3.org/2000/svg">
-    <path d="M4.5 2.5H2.5V11.5H4.5" stroke="green" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M9.5 2.5H11.5V11.5H9.5" stroke="green" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M4.25 8.99948C4.25 9.55177 4.69772 9.99948 5.25 9.99948C5.80228 9.99948 6.25 9.55177 6.25 8.99948C6.25 8.4472 5.80228 7.99948 5.25 7.99948C4.69772 7.99948 4.25 8.4472 4.25 8.99948Z" stroke="red" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M7.75 5.00052C7.75 5.5528 8.19772 6.00052 8.75 6.00052C9.30228 6.00052 9.75 5.5528 9.75 5.00052C9.75 4.44823 9.30228 4.00052 8.75 4.00052C8.19772 4.00052 7.75 4.44823 7.75 5.00052Z" stroke="red" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M4.25 5.00052C4.25 5.5528 4.69772 6.00052 5.25 6.00052C5.80228 6.00052 6.25 5.5528 6.25 5.00052C6.25 4.44823 5.80228 4.00052 5.25 4.00052C4.69772 4.00052 4.25 4.44823 4.25 5.00052Z" stroke="red" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M7.75 9.00052C7.75 9.5528 8.19772 10.0005 8.75 10.0005C9.30228 10.0005 9.75 9.5528 9.75 9.00052C9.75 8.44823 9.30228 8.00052 8.75 8.00052C8.19772 8.00052 7.75 8.44823 7.75 9.00052Z" stroke="red" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" viewBox="0 0 14 14"><path stroke="green" stroke-linecap="round" stroke-linejoin="round" d="M4.5 2.5h-2v9h2m5-9h2v9h-2"/><path stroke="red" stroke-linecap="round" stroke-linejoin="round" d="M4.25 9a1 1 0 1 0 2 0 1 1 0 0 0-2 0m3.5-4a1 1 0 1 0 2 0 1 1 0 0 0-2 0m-3.5 0a1 1 0 1 0 2 0 1 1 0 0 0-2 0m3.5 4a1 1 0 1 0 2 0 1 1 0 0 0-2 0"/></svg>

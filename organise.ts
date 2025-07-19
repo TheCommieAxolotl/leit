@@ -3,19 +3,6 @@ import fs from "fs";
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
-// inside of ./icons, there are icons with the following structure:
-// - category.subtype.sub.svg
-// - other-category.subtype.[...].icon2.svg
-
-// we want to organise these into:
-
-// - ./icons/category/category-subtype-sub.svg
-// - ./icons/other-category/other-category-subtype-[...]-icon2.svg
-
-// if a file is simply
-// - category.svg
-// it should remain in the root of ./icons
-
 const organiseIcons = async () => {
     const iconsDir = path.join(__dirname, "icons");
     const files = await fs.promises.readdir(iconsDir);
@@ -32,7 +19,6 @@ const organiseIcons = async () => {
             const isSingleCategory = subtypes.length === 0 || (subtypes.length === 1 && subtypes[0] === category);
 
             if (isSingleCategory) {
-                // If the file is simply category.svg, keep it in the root
                 continue;
             }
 
@@ -40,18 +26,15 @@ const organiseIcons = async () => {
             const newFileName = `${category}-${subtypes.join("-")}.svg`;
 
             if (!fs.existsSync(newDir)) {
-                // Create the new directory if it doesn't exist
                 await fs.promises.mkdir(newDir, { recursive: true });
             }
 
-            // Move the file to the new directory
             const oldFilePath = path.join(iconsDir, file);
             const newFilePath = path.join(newDir, newFileName);
             await fs.promises.rename(oldFilePath, newFilePath);
         }
     }
 
-    // go through and check if any of the single category files actually do have associated subtypes, and if so move them into their respective directories
     const remainingFiles = await fs.promises.readdir(iconsDir);
 
     for (const file of remainingFiles) {
@@ -62,8 +45,6 @@ const organiseIcons = async () => {
             const subtypes = remainingFiles.filter((f) => f.startsWith(`${category}.`));
 
             if (subtypes.length > 0) {
-                // if there exists a directory for this category, move the file into it
-
                 if (remainingFiles.includes(category) && (await fs.promises.stat(path.join(iconsDir, category))).isDirectory()) {
                     const oldFilePath = path.join(iconsDir, file);
                     const newFilePath = path.join(iconsDir, category, file);
@@ -82,7 +63,7 @@ const organiseIcons = async () => {
 
         if (filePath.endsWith(".svg")) {
             const iconName = path.basename(filePath, ".svg");
-            iconList[iconName.replaceAll("-", ".")] = filePath.replace(__dirname, "").replace(/\\/g, "/"); // Normalize path for web usage
+            iconList[iconName.replaceAll("-", ".")] = filePath.replace(__dirname, "").replace(/\\/g, "/");
         }
     }
 
