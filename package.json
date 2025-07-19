@@ -1,0 +1,14 @@
+{
+    "name": "leit",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "organise": "tsx organise.ts",
+        "recolor": "tsx recolor.ts",
+        "make-icons": "pnpm recolor && pnpm organise"
+    },
+    "packageManager": "pnpm@10.11.0",
+    "devDependencies": {
+        "tsx": "^4.20.3"
+    }
+}
