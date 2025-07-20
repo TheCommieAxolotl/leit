@@ -14,7 +14,7 @@ const reformatIcons = async () => {
     const replacements = [
         ['="black"', '="red"'],
         ['="#007EFF"', '="green"'],
-        ['="#FF0000"', '="blue"'],
+        ['="#FF0000"', '="#00f"'],
         [/(?<!stop-color="red" )stop-opacity=/g, 'stop-color="red" stop-opacity='],
         ['width="14" height="14"', 'width="16" height="16"'],
     ] as const;

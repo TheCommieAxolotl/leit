@@ -137,7 +137,7 @@ const makePages = async (iconList: Record<string, string>) => {
         <label for="tertiary-color">Tertiary Color</label>
         <main>${Object.values(iconList)
             .map((iconpath) => {
-                return fs.readFileSync(path.join(__dirname, iconpath), "utf8").replaceAll("red", "var(--primary)").replaceAll("green", "var(--secondary)").replaceAll("blue", "var(--tertiary)");
+                return fs.readFileSync(path.join(__dirname, iconpath), "utf8").replaceAll("red", "var(--primary)").replaceAll("green", "var(--secondary)").replaceAll("#00f", "var(--tertiary)");
             })
             .join("")}</main>
         <script>
