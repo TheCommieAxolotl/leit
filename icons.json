@@ -159,6 +159,7 @@
   "control": "/icons/control.svg",
   "cpu": "/icons/cpu.svg",
   "cube": "/icons/cube.svg",
+  "cue": "/icons/cue.svg",
   "currency.bitcoin": "/icons/currency/currency-bitcoin.svg",
   "currency.cent": "/icons/currency/currency-cent.svg",
   "currency.euro": "/icons/currency/currency-euro.svg",
@@ -196,8 +197,6 @@
   "exclamation.square": "/icons/exclamation/exclamation-square.svg",
   "exclamation.triangle": "/icons/exclamation/exclamation-triangle.svg",
   "exclamation": "/icons/exclamation/exclamation.svg",
-  "exponent.2": "/icons/exponent/exponent-2.svg",
-  "exponent": "/icons/exponent/exponent.svg",
   "eye.off": "/icons/eye/eye-off.svg",
   "eye": "/icons/eye/eye.svg",
   "file.a": "/icons/file/file-a.svg",
@@ -395,6 +394,9 @@
   "window": "/icons/window/window.svg",
   "workflow": "/icons/workflow.svg",
   "x.circle": "/icons/x/x-circle.svg",
+  "x.radical": "/icons/x/x-radical.svg",
   "x.square": "/icons/x/x-square.svg",
+  "x.sup.2": "/icons/x/x-sup-2.svg",
+  "x.sup": "/icons/x/x-sup.svg",
   "x": "/icons/x/x.svg"
 }

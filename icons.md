@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-07-22T00:07:09.746Z
+Generated on 2025-07-27T10:07:41.969Z
 
 ---
 
@@ -166,6 +166,7 @@ Generated on 2025-07-22T00:07:09.746Z
 | control | [/icons/control.svg](./icons/control.svg) | ![control](./icons/control.svg) |
 | cpu | [/icons/cpu.svg](./icons/cpu.svg) | ![cpu](./icons/cpu.svg) |
 | cube | [/icons/cube.svg](./icons/cube.svg) | ![cube](./icons/cube.svg) |
+| cue | [/icons/cue.svg](./icons/cue.svg) | ![cue](./icons/cue.svg) |
 | currency.bitcoin | [/icons/currency/currency-bitcoin.svg](./icons/currency/currency-bitcoin.svg) | ![currency.bitcoin](./icons/currency/currency-bitcoin.svg) |
 | currency.cent | [/icons/currency/currency-cent.svg](./icons/currency/currency-cent.svg) | ![currency.cent](./icons/currency/currency-cent.svg) |
 | currency.euro | [/icons/currency/currency-euro.svg](./icons/currency/currency-euro.svg) | ![currency.euro](./icons/currency/currency-euro.svg) |
@@ -203,8 +204,6 @@ Generated on 2025-07-22T00:07:09.746Z
 | exclamation.square | [/icons/exclamation/exclamation-square.svg](./icons/exclamation/exclamation-square.svg) | ![exclamation.square](./icons/exclamation/exclamation-square.svg) |
 | exclamation.triangle | [/icons/exclamation/exclamation-triangle.svg](./icons/exclamation/exclamation-triangle.svg) | ![exclamation.triangle](./icons/exclamation/exclamation-triangle.svg) |
 | exclamation | [/icons/exclamation/exclamation.svg](./icons/exclamation/exclamation.svg) | ![exclamation](./icons/exclamation/exclamation.svg) |
-| exponent.2 | [/icons/exponent/exponent-2.svg](./icons/exponent/exponent-2.svg) | ![exponent.2](./icons/exponent/exponent-2.svg) |
-| exponent | [/icons/exponent/exponent.svg](./icons/exponent/exponent.svg) | ![exponent](./icons/exponent/exponent.svg) |
 | eye.off | [/icons/eye/eye-off.svg](./icons/eye/eye-off.svg) | ![eye.off](./icons/eye/eye-off.svg) |
 | eye | [/icons/eye/eye.svg](./icons/eye/eye.svg) | ![eye](./icons/eye/eye.svg) |
 | file.a | [/icons/file/file-a.svg](./icons/file/file-a.svg) | ![file.a](./icons/file/file-a.svg) |
@@ -402,5 +401,8 @@ Generated on 2025-07-22T00:07:09.746Z
 | window | [/icons/window/window.svg](./icons/window/window.svg) | ![window](./icons/window/window.svg) |
 | workflow | [/icons/workflow.svg](./icons/workflow.svg) | ![workflow](./icons/workflow.svg) |
 | x.circle | [/icons/x/x-circle.svg](./icons/x/x-circle.svg) | ![x.circle](./icons/x/x-circle.svg) |
+| x.radical | [/icons/x/x-radical.svg](./icons/x/x-radical.svg) | ![x.radical](./icons/x/x-radical.svg) |
 | x.square | [/icons/x/x-square.svg](./icons/x/x-square.svg) | ![x.square](./icons/x/x-square.svg) |
+| x.sup.2 | [/icons/x/x-sup-2.svg](./icons/x/x-sup-2.svg) | ![x.sup.2](./icons/x/x-sup-2.svg) |
+| x.sup | [/icons/x/x-sup.svg](./icons/x/x-sup.svg) | ![x.sup](./icons/x/x-sup.svg) |
 | x | [/icons/x/x.svg](./icons/x/x.svg) | ![x](./icons/x/x.svg) |
