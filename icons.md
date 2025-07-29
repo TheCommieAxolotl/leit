@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-07-27T10:07:41.969Z
+Generated on 2025-07-29T21:54:00.002Z
 
 ---
 
@@ -84,6 +84,7 @@ Generated on 2025-07-27T10:07:41.969Z
 | battery.75 | [/icons/battery/battery-75.svg](./icons/battery/battery-75.svg) | ![battery.75](./icons/battery/battery-75.svg) |
 | battery.off | [/icons/battery/battery-off.svg](./icons/battery/battery-off.svg) | ![battery.off](./icons/battery/battery-off.svg) |
 | battery | [/icons/battery/battery.svg](./icons/battery/battery.svg) | ![battery](./icons/battery/battery.svg) |
+| beaker | [/icons/beaker.svg](./icons/beaker.svg) | ![beaker](./icons/beaker.svg) |
 | bluetooth.off | [/icons/bluetooth/bluetooth-off.svg](./icons/bluetooth/bluetooth-off.svg) | ![bluetooth.off](./icons/bluetooth/bluetooth-off.svg) |
 | bluetooth | [/icons/bluetooth/bluetooth.svg](./icons/bluetooth/bluetooth.svg) | ![bluetooth](./icons/bluetooth/bluetooth.svg) |
 | bold.emphasis | [/icons/bold/bold-emphasis.svg](./icons/bold/bold-emphasis.svg) | ![bold.emphasis](./icons/bold/bold-emphasis.svg) |
@@ -212,6 +213,7 @@ Generated on 2025-07-27T10:07:41.969Z
 | file.text | [/icons/file/file-text.svg](./icons/file/file-text.svg) | ![file.text](./icons/file/file-text.svg) |
 | file | [/icons/file/file.svg](./icons/file/file.svg) | ![file](./icons/file/file.svg) |
 | fire | [/icons/fire.svg](./icons/fire.svg) | ![fire](./icons/fire.svg) |
+| flask | [/icons/flask.svg](./icons/flask.svg) | ![flask](./icons/flask.svg) |
 | folder.a | [/icons/folder/folder-a.svg](./icons/folder/folder-a.svg) | ![folder.a](./icons/folder/folder-a.svg) |
 | folder.minus | [/icons/folder/folder-minus.svg](./icons/folder/folder-minus.svg) | ![folder.minus](./icons/folder/folder-minus.svg) |
 | folder.plus | [/icons/folder/folder-plus.svg](./icons/folder/folder-plus.svg) | ![folder.plus](./icons/folder/folder-plus.svg) |
@@ -254,6 +256,8 @@ Generated on 2025-07-27T10:07:41.969Z
 | link.couple | [/icons/link/link-couple.svg](./icons/link/link-couple.svg) | ![link.couple](./icons/link/link-couple.svg) |
 | link.external | [/icons/link/link-external.svg](./icons/link/link-external.svg) | ![link.external](./icons/link/link-external.svg) |
 | link | [/icons/link/link.svg](./icons/link/link.svg) | ![link](./icons/link/link.svg) |
+| lock.open | [/icons/lock/lock-open.svg](./icons/lock/lock-open.svg) | ![lock.open](./icons/lock/lock-open.svg) |
+| lock | [/icons/lock/lock.svg](./icons/lock/lock.svg) | ![lock](./icons/lock/lock.svg) |
 | match | [/icons/match.svg](./icons/match.svg) | ![match](./icons/match.svg) |
 | matrix.1x2 | [/icons/matrix/matrix-1x2.svg](./icons/matrix/matrix-1x2.svg) | ![matrix.1x2](./icons/matrix/matrix-1x2.svg) |
 | matrix.2x2 | [/icons/matrix/matrix-2x2.svg](./icons/matrix/matrix-2x2.svg) | ![matrix.2x2](./icons/matrix/matrix-2x2.svg) |
@@ -308,7 +312,8 @@ Generated on 2025-07-27T10:07:41.969Z
 | person | [/icons/person/person.svg](./icons/person/person.svg) | ![person](./icons/person/person.svg) |
 | pi.capital | [/icons/pi/pi-capital.svg](./icons/pi/pi-capital.svg) | ![pi.capital](./icons/pi/pi-capital.svg) |
 | pi | [/icons/pi/pi.svg](./icons/pi/pi.svg) | ![pi](./icons/pi/pi.svg) |
-| picture | [/icons/picture.svg](./icons/picture.svg) | ![picture](./icons/picture.svg) |
+| picture.plus | [/icons/picture/picture-plus.svg](./icons/picture/picture-plus.svg) | ![picture.plus](./icons/picture/picture-plus.svg) |
+| picture | [/icons/picture/picture.svg](./icons/picture/picture.svg) | ![picture](./icons/picture/picture.svg) |
 | pilcrow | [/icons/pilcrow.svg](./icons/pilcrow.svg) | ![pilcrow](./icons/pilcrow.svg) |
 | planet | [/icons/planet.svg](./icons/planet.svg) | ![planet](./icons/planet.svg) |
 | play.fill | [/icons/play/play-fill.svg](./icons/play/play-fill.svg) | ![play.fill](./icons/play/play-fill.svg) |
@@ -367,6 +372,7 @@ Generated on 2025-07-27T10:07:41.969Z
 | triangle.right | [/icons/triangle/triangle-right.svg](./icons/triangle/triangle-right.svg) | ![triangle.right](./icons/triangle/triangle-right.svg) |
 | triangle.shade | [/icons/triangle/triangle-shade.svg](./icons/triangle/triangle-shade.svg) | ![triangle.shade](./icons/triangle/triangle-shade.svg) |
 | triangle | [/icons/triangle/triangle.svg](./icons/triangle/triangle.svg) | ![triangle](./icons/triangle/triangle.svg) |
+| trophy | [/icons/trophy.svg](./icons/trophy.svg) | ![trophy](./icons/trophy.svg) |
 | underline | [/icons/underline.svg](./icons/underline.svg) | ![underline](./icons/underline.svg) |
 | upload | [/icons/upload.svg](./icons/upload.svg) | ![upload](./icons/upload.svg) |
 | variable | [/icons/variable.svg](./icons/variable.svg) | ![variable](./icons/variable.svg) |
