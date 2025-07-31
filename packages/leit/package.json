@@ -1,13 +1,17 @@
 {
     "name": "leit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple, minimal icons.",
     "author": "TheCommieAxolotl",
+    "type": "module",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/TheCommieAxolotl/leit.git"
     },
-    "readme": "https://github.com/TheCommieAxolotl/leit#readme",
+    "readme": "https://github.com/TheCommieAxolotl/leit/tree/main/packages/leit#readme",
+    "bugs": {
+        "url": "https://github.com/TheCommieAxolotl/leit/issues"
+    },
     "license": "MIT",
     "keywords": [
         "icons",
