@@ -1,0 +1,51 @@
+{
+    "name": "leit-solid",
+    "version": "1.0.0",
+    "description": "Simple, minimal icons.",
+    "author": "TheCommieAxolotl",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheCommieAxolotl/leit.git"
+    },
+    "readme": "https://github.com/TheCommieAxolotl/leit/tree/main/packages/solid#readme",
+    "bugs": {
+        "url": "https://github.com/TheCommieAxolotl/leit/issues"
+    },
+    "main": "./dist/index.cjs.js",
+    "module": "./dist/index.es.js",
+    "types": "./dist/index.es.d.ts",
+    "exports": {
+        "import": "./dist/index.es.js",
+        "require": "./dist/index.cjs.js"
+    },
+    "license": "MIT",
+    "files": [
+        "dist",
+        "components"
+    ],
+    "keywords": [
+        "icons",
+        "svg",
+        "minimal",
+        "design",
+        "simple",
+        "solidjs",
+        "component"
+    ],
+    "scripts": {
+        "build": "vite build",
+        "make-icons": "tsx scripts/make-icons.ts"
+    },
+    "packageManager": "pnpm@10.11.0",
+    "devDependencies": {
+        "leit": "workspace:*",
+        "tsx": "^4.20.3",
+        "vite": "^7.0.6",
+        "vite-plugin-dts": "^4.5.4",
+        "vite-plugin-solid": "^2.11.8"
+    },
+    "peerDependencies": {
+        "solid-js": "^1.9.7"
+    }
+}
