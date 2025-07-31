@@ -4,6 +4,7 @@
     "description": "Simple, minimal icons.",
     "author": "TheCommieAxolotl",
     "type": "module",
+    "main": "index.js",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/TheCommieAxolotl/leit.git"
