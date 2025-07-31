@@ -4,7 +4,7 @@ import fs from "fs";
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 const organiseIcons = async () => {
-    const iconsDir = path.join(__dirname, "icons");
+    const iconsDir = path.join(__dirname, "../icons");
     const files = await fs.promises.readdir(iconsDir);
 
     const iconList: Record<string, string> = {};
@@ -63,11 +63,11 @@ const organiseIcons = async () => {
 
         if (filePath.endsWith(".svg")) {
             const iconName = path.basename(filePath, ".svg");
-            iconList[iconName.replaceAll("-", ".")] = filePath.replace(__dirname, "").replace(/\\/g, "/");
+            iconList[iconName.replaceAll("-", ".")] = filePath.replace(path.resolve(__dirname, ".."), "").replace(/\\/g, "/");
         }
     }
 
-    const outputFilePath = path.join(__dirname, "icons.json");
+    const outputFilePath = path.join(__dirname, "../icons.json");
     await fs.promises.writeFile(outputFilePath, JSON.stringify(iconList, null, 2));
 
     makePages(iconList);
@@ -137,7 +137,7 @@ const makePages = async (iconList: Record<string, string>) => {
         <label for="tertiary-color">Tertiary Color</label>
         <main>${Object.values(iconList)
             .map((iconpath) => {
-                return fs.readFileSync(path.join(__dirname, iconpath), "utf8").replaceAll("red", "var(--primary)").replaceAll("green", "var(--secondary)").replaceAll("#00f", "var(--tertiary)");
+                return fs.readFileSync(path.join(__dirname, "..", iconpath), "utf8").replaceAll("red", "var(--primary)").replaceAll("green", "var(--secondary)").replaceAll("#00f", "var(--tertiary)");
             })
             .join("")}</main>
         <script>
@@ -170,7 +170,7 @@ const makePages = async (iconList: Record<string, string>) => {
     </body>
 </html>`;
 
-    const htmlFilePath = path.join(__dirname, "icons.html");
+    const htmlFilePath = path.join(__dirname, "../icons.html");
     await fs.promises.writeFile(htmlFilePath, htmlContent);
     console.log(`HTML file created at: ${htmlFilePath}`);
 
@@ -187,7 +187,7 @@ ${Object.entries(iconList)
     .join("\n")}
 `;
 
-    const markdownFilePath = path.join(__dirname, "icons.md");
+    const markdownFilePath = path.join(__dirname, "../icons.md");
     await fs.promises.writeFile(markdownFilePath, markdownContent);
     console.log(`Markdown file created at: ${markdownFilePath}`);
 };

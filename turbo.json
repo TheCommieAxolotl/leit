@@ -1,0 +1,13 @@
+{
+    "$schema": "https://turborepo.com/schema.json",
+    "tasks": {
+        "make-icons": {
+            "dependsOn": ["^make-icons"],
+            "outputs": ["icons/**", "components/**"]
+        },
+        "build": {
+            "dependsOn": ["^build"],
+            "outputs": ["dist/**"]
+        }
+    }
+}

@@ -6,7 +6,7 @@ import { optimize } from "svgo";
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 
 const reformatIcons = async () => {
-    const iconsDir = path.join(__dirname, "icons");
+    const iconsDir = path.join(__dirname, "../icons");
     const files = await fs.promises.readdir(iconsDir, {
         recursive: true,
     });
