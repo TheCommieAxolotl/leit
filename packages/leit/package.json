@@ -1,0 +1,29 @@
+{
+    "name": "leit",
+    "version": "1.0.0",
+    "description": "Simple, minimal icons.",
+    "author": "TheCommieAxolotl",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheCommieAxolotl/leit.git"
+    },
+    "readme": "https://github.com/TheCommieAxolotl/leit#readme",
+    "license": "MIT",
+    "keywords": [
+        "icons",
+        "svg",
+        "minimal",
+        "design",
+        "simple"
+    ],
+    "scripts": {
+        "organise": "tsx scripts/organise.ts",
+        "reformat": "tsx scripts/reformat.ts",
+        "make-icons": "pnpm reformat && pnpm organise"
+    },
+    "packageManager": "pnpm@10.11.0",
+    "devDependencies": {
+        "svgo": "^4.0.0",
+        "tsx": "^4.20.3"
+    }
+}
