@@ -10,9 +10,9 @@ const makeComponent = (name: string, content: string) => {
     const componentName = name.replace(/(^\w|\.\w)/g, (match) => match.replace(".", "").toUpperCase());
 
     const replacements = [
-        ['="red"', "={props.primary}"],
-        ['="green"', "={props.secondary}"],
-        ['="#00f"', "={props.tertiary}"],
+        ['="red"', "={props.primary||'currentColor'}"],
+        ['="green"', "={props.secondary||'currentColor'}"],
+        ['="#00f"', "={props.tertiary||'currentColor'}"],
         ['width="16" height="16"', 'width={props.size ?? "16"} height={props.size ?? "16"}'],
         ['width="14" height="14"', 'width={props.size ?? "16"} height={props.size ?? "16"}'],
         ["<svg ", `<svg {...props} data-icon="${name}" `],
