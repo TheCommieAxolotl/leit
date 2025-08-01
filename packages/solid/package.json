@@ -1,6 +1,6 @@
 {
     "name": "leit-solid",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Simple, minimal icons.",
     "author": "TheCommieAxolotl",
     "type": "module",
@@ -36,7 +36,8 @@
     "license": "MIT",
     "files": [
         "dist",
-        "components"
+        "components",
+        "index.ts"
     ],
     "keywords": [
         "icons",
