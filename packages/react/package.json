@@ -1,0 +1,66 @@
+{
+    "name": "leit-react",
+    "version": "1.0.0",
+    "description": "Simple, minimal icons.",
+    "author": "TheCommieAxolotl",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheCommieAxolotl/leit.git"
+    },
+    "readme": "https://github.com/TheCommieAxolotl/leit/tree/main/packages/react#readme",
+    "bugs": {
+        "url": "https://github.com/TheCommieAxolotl/leit/issues"
+    },
+    "sideEffects": false,
+    "main": "./dist/index.cjs.js",
+    "module": "./dist/index.es.js",
+    "types": "./dist/index.es.d.ts",
+    "exports": {
+        ".": {
+            "types": "./dist/index.es.d.ts",
+            "react": "./index.ts",
+            "import": "./dist/index.es.js",
+            "browser": "./dist/index.es.js",
+            "require": "./dist/index.cjs.js"
+        },
+        "./icons": {
+            "types": "./dist/index.es.d.ts",
+            "react": "./index.ts",
+            "import": "./dist/index.es.js",
+            "browser": "./dist/index.es.js",
+            "require": "./dist/index.cjs.js"
+        },
+        "./icons/*": "./components/*.tsx"
+    },
+    "license": "MIT",
+    "files": [
+        "dist",
+        "components",
+        "index.ts"
+    ],
+    "keywords": [
+        "icons",
+        "svg",
+        "minimal",
+        "design",
+        "simple",
+        "reactjs",
+        "component"
+    ],
+    "scripts": {
+        "build": "vite build",
+        "make-icons": "tsx scripts/make-icons.ts"
+    },
+    "packageManager": "pnpm@10.11.0",
+    "devDependencies": {
+        "leit": "workspace:*",
+        "tsx": "^4.20.3",
+        "vite": "^7.0.6",
+        "vite-plugin-dts": "^4.5.4",
+        "@vitejs/plugin-react": "^5.0.2"
+    },
+    "peerDependencies": {
+        "react": "^19.1.1"
+    }
+}

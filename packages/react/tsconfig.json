@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "jsx": "preserve",
+        "jsxImportSource": "react",
+        "module": "esnext",
+        "target": "esnext",
+        "lib": ["esnext"],
+        "moduleResolution": "bundler",
+        "baseUrl": "."
+    }
+}
