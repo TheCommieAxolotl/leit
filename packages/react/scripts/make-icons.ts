@@ -16,6 +16,9 @@ const makeComponent = (name: string, content: string) => {
         ['width="16" height="16"', 'width={props.size ?? "16"} height={props.size ?? "16"}'],
         ['width="14" height="14"', 'width={props.size ?? "16"} height={props.size ?? "16"}'],
         ["<svg ", `<svg {...props} data-icon="${name}" `],
+        // reactisms
+        ["stroke-linejoin", "strokeLinejoin"],
+        ["stroke-linecap", "strokeLinecap"],
     ] as const;
 
     const replacedContent = replacements.reduce((acc, [oldColor, newColor]) => {
