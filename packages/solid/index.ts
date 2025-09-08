@@ -157,6 +157,7 @@ export { default as Code } from "./components/Code";
 export { default as Cog } from "./components/Cog";
 export { default as Command } from "./components/Command";
 export { default as Control } from "./components/Control";
+export { default as Copy } from "./components/Copy";
 export { default as Cpu } from "./components/Cpu";
 export { default as Cube } from "./components/Cube";
 export { default as Cue } from "./components/Cue";

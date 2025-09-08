@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-09-03T09:28:10.176Z
+Generated on 2025-09-08T21:30:53.351Z
 
 ---
 
@@ -165,6 +165,7 @@ Generated on 2025-09-03T09:28:10.176Z
 | cog | [/icons/cog.svg](./icons/cog.svg) | ![cog](./icons/cog.svg) |
 | command | [/icons/command.svg](./icons/command.svg) | ![command](./icons/command.svg) |
 | control | [/icons/control.svg](./icons/control.svg) | ![control](./icons/control.svg) |
+| copy | [/icons/copy.svg](./icons/copy.svg) | ![copy](./icons/copy.svg) |
 | cpu | [/icons/cpu.svg](./icons/cpu.svg) | ![cpu](./icons/cpu.svg) |
 | cube | [/icons/cube.svg](./icons/cube.svg) | ![cube](./icons/cube.svg) |
 | cue | [/icons/cue.svg](./icons/cue.svg) | ![cue](./icons/cue.svg) |
