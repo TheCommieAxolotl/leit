@@ -289,6 +289,7 @@ export { default as Paragraph } from "./components/Paragraph";
 export { default as Parens } from "./components/Parens";
 export { default as Pause } from "./components/Pause";
 export { default as Pen } from "./components/Pen";
+export { default as PencilLine } from "./components/PencilLine";
 export { default as Pencil } from "./components/Pencil";
 export { default as PentagonFill } from "./components/PentagonFill";
 export { default as PentagonShade } from "./components/PentagonShade";

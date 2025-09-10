@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-09-08T21:30:53.351Z
+Generated on 2025-09-10T00:13:38.802Z
 
 ---
 
@@ -297,7 +297,8 @@ Generated on 2025-09-08T21:30:53.351Z
 | parens | [/icons/parens.svg](./icons/parens.svg) | ![parens](./icons/parens.svg) |
 | pause | [/icons/pause.svg](./icons/pause.svg) | ![pause](./icons/pause.svg) |
 | pen | [/icons/pen.svg](./icons/pen.svg) | ![pen](./icons/pen.svg) |
-| pencil | [/icons/pencil.svg](./icons/pencil.svg) | ![pencil](./icons/pencil.svg) |
+| pencil.line | [/icons/pencil/pencil-line.svg](./icons/pencil/pencil-line.svg) | ![pencil.line](./icons/pencil/pencil-line.svg) |
+| pencil | [/icons/pencil/pencil.svg](./icons/pencil/pencil.svg) | ![pencil](./icons/pencil/pencil.svg) |
 | pentagon.fill | [/icons/pentagon/pentagon-fill.svg](./icons/pentagon/pentagon-fill.svg) | ![pentagon.fill](./icons/pentagon/pentagon-fill.svg) |
 | pentagon.shade | [/icons/pentagon/pentagon-shade.svg](./icons/pentagon/pentagon-shade.svg) | ![pentagon.shade](./icons/pentagon/pentagon-shade.svg) |
 | pentagon | [/icons/pentagon/pentagon.svg](./icons/pentagon/pentagon.svg) | ![pentagon](./icons/pentagon/pentagon.svg) |
