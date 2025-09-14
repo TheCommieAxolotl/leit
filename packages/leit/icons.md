@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-09-10T00:13:38.802Z
+Generated on 2025-09-14T21:46:54.582Z
 
 ---
 
@@ -213,6 +213,7 @@ Generated on 2025-09-10T00:13:38.802Z
 | file.plus | [/icons/file/file-plus.svg](./icons/file/file-plus.svg) | ![file.plus](./icons/file/file-plus.svg) |
 | file.text | [/icons/file/file-text.svg](./icons/file/file-text.svg) | ![file.text](./icons/file/file-text.svg) |
 | file | [/icons/file/file.svg](./icons/file/file.svg) | ![file](./icons/file/file.svg) |
+| filter | [/icons/filter.svg](./icons/filter.svg) | ![filter](./icons/filter.svg) |
 | fire | [/icons/fire.svg](./icons/fire.svg) | ![fire](./icons/fire.svg) |
 | flask | [/icons/flask.svg](./icons/flask.svg) | ![flask](./icons/flask.svg) |
 | folder.a | [/icons/folder/folder-a.svg](./icons/folder/folder-a.svg) | ![folder.a](./icons/folder/folder-a.svg) |

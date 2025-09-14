@@ -205,6 +205,7 @@ export { default as FileMinus } from "./components/FileMinus";
 export { default as FilePlus } from "./components/FilePlus";
 export { default as FileText } from "./components/FileText";
 export { default as File } from "./components/File";
+export { default as Filter } from "./components/Filter";
 export { default as Fire } from "./components/Fire";
 export { default as Flask } from "./components/Flask";
 export { default as FolderA } from "./components/FolderA";
