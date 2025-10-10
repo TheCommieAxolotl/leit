@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-10-10T22:21:20.604Z
+Generated on 2025-10-10T23:13:00.106Z
 
 ---
 
@@ -175,6 +175,7 @@ Generated on 2025-10-10T22:21:20.604Z
 | currency.sterling | [/icons/currency/currency-sterling.svg](./icons/currency/currency-sterling.svg) | ![currency.sterling](./icons/currency/currency-sterling.svg) |
 | currency.yen | [/icons/currency/currency-yen.svg](./icons/currency/currency-yen.svg) | ![currency.yen](./icons/currency/currency-yen.svg) |
 | currency | [/icons/currency/currency.svg](./icons/currency/currency.svg) | ![currency](./icons/currency/currency.svg) |
+| database | [/icons/database.svg](./icons/database.svg) | ![database](./icons/database.svg) |
 | delete.forward | [/icons/delete/delete-forward.svg](./icons/delete/delete-forward.svg) | ![delete.forward](./icons/delete/delete-forward.svg) |
 | delete | [/icons/delete/delete.svg](./icons/delete/delete.svg) | ![delete](./icons/delete/delete.svg) |
 | delta.capital | [/icons/delta/delta-capital.svg](./icons/delta/delta-capital.svg) | ![delta.capital](./icons/delta/delta-capital.svg) |
@@ -249,6 +250,7 @@ Generated on 2025-10-10T22:21:20.604Z
 | integral.definite | [/icons/integral/integral-definite.svg](./icons/integral/integral-definite.svg) | ![integral.definite](./icons/integral/integral-definite.svg) |
 | integral | [/icons/integral/integral.svg](./icons/integral/integral.svg) | ![integral](./icons/integral/integral.svg) |
 | italic | [/icons/italic.svg](./icons/italic.svg) | ![italic](./icons/italic.svg) |
+| keyboard | [/icons/keyboard.svg](./icons/keyboard.svg) | ![keyboard](./icons/keyboard.svg) |
 | leaf | [/icons/leaf.svg](./icons/leaf.svg) | ![leaf](./icons/leaf.svg) |
 | library | [/icons/library.svg](./icons/library.svg) | ![library](./icons/library.svg) |
 | line.end.circle | [/icons/line/line-end-circle.svg](./icons/line/line-end-circle.svg) | ![line.end.circle](./icons/line/line-end-circle.svg) |
@@ -364,6 +366,9 @@ Generated on 2025-10-10T22:21:20.604Z
 | strikethrough | [/icons/strikethrough.svg](./icons/strikethrough.svg) | ![strikethrough](./icons/strikethrough.svg) |
 | sun | [/icons/sun.svg](./icons/sun.svg) | ![sun](./icons/sun.svg) |
 | tangent | [/icons/tangent.svg](./icons/tangent.svg) | ![tangent](./icons/tangent.svg) |
+| text.cursor.input.alt | [/icons/text/text-cursor-input-alt.svg](./icons/text/text-cursor-input-alt.svg) | ![text.cursor.input.alt](./icons/text/text-cursor-input-alt.svg) |
+| text.cursor.input | [/icons/text/text-cursor-input.svg](./icons/text/text-cursor-input.svg) | ![text.cursor.input](./icons/text/text-cursor-input.svg) |
+| text.cursor | [/icons/text/text-cursor.svg](./icons/text/text-cursor.svg) | ![text.cursor](./icons/text/text-cursor.svg) |
 | textformat.size | [/icons/textformat/textformat-size.svg](./icons/textformat/textformat-size.svg) | ![textformat.size](./icons/textformat/textformat-size.svg) |
 | textformat | [/icons/textformat/textformat.svg](./icons/textformat/textformat.svg) | ![textformat](./icons/textformat/textformat.svg) |
 | ticket.ripped | [/icons/ticket/ticket-ripped.svg](./icons/ticket/ticket-ripped.svg) | ![ticket.ripped](./icons/ticket/ticket-ripped.svg) |
