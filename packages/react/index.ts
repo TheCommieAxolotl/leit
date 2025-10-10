@@ -235,6 +235,7 @@ export { default as HexagonShade } from "./components/HexagonShade";
 export { default as Hexagon } from "./components/Hexagon";
 export { default as Home } from "./components/Home";
 export { default as Hourglass } from "./components/Hourglass";
+export { default as Info } from "./components/Info";
 export { default as Integral2 } from "./components/Integral2";
 export { default as IntegralContour } from "./components/IntegralContour";
 export { default as IntegralDefinite } from "./components/IntegralDefinite";

@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-09-14T21:46:54.582Z
+Generated on 2025-10-10T22:21:20.604Z
 
 ---
 
@@ -243,6 +243,7 @@ Generated on 2025-09-14T21:46:54.582Z
 | hexagon | [/icons/hexagon/hexagon.svg](./icons/hexagon/hexagon.svg) | ![hexagon](./icons/hexagon/hexagon.svg) |
 | home | [/icons/home.svg](./icons/home.svg) | ![home](./icons/home.svg) |
 | hourglass | [/icons/hourglass.svg](./icons/hourglass.svg) | ![hourglass](./icons/hourglass.svg) |
+| info | [/icons/info.svg](./icons/info.svg) | ![info](./icons/info.svg) |
 | integral.2 | [/icons/integral/integral-2.svg](./icons/integral/integral-2.svg) | ![integral.2](./icons/integral/integral-2.svg) |
 | integral.contour | [/icons/integral/integral-contour.svg](./icons/integral/integral-contour.svg) | ![integral.contour](./icons/integral/integral-contour.svg) |
 | integral.definite | [/icons/integral/integral-definite.svg](./icons/integral/integral-definite.svg) | ![integral.definite](./icons/integral/integral-definite.svg) |
