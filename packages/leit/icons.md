@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-10-10T23:15:31.822Z
+Generated on 2025-10-11T01:55:34.700Z
 
 ---
 
@@ -175,6 +175,10 @@ Generated on 2025-10-10T23:15:31.822Z
 | currency.sterling | [/icons/currency/currency-sterling.svg](./icons/currency/currency-sterling.svg) | ![currency.sterling](./icons/currency/currency-sterling.svg) |
 | currency.yen | [/icons/currency/currency-yen.svg](./icons/currency/currency-yen.svg) | ![currency.yen](./icons/currency/currency-yen.svg) |
 | currency | [/icons/currency/currency.svg](./icons/currency/currency.svg) | ![currency](./icons/currency/currency.svg) |
+| cursor.text.input.alt | [/icons/cursor/cursor-text-input-alt.svg](./icons/cursor/cursor-text-input-alt.svg) | ![cursor.text.input.alt](./icons/cursor/cursor-text-input-alt.svg) |
+| cursor.text.input | [/icons/cursor/cursor-text-input.svg](./icons/cursor/cursor-text-input.svg) | ![cursor.text.input](./icons/cursor/cursor-text-input.svg) |
+| cursor.text | [/icons/cursor/cursor-text.svg](./icons/cursor/cursor-text.svg) | ![cursor.text](./icons/cursor/cursor-text.svg) |
+| cursor | [/icons/cursor/cursor.svg](./icons/cursor/cursor.svg) | ![cursor](./icons/cursor/cursor.svg) |
 | database | [/icons/database.svg](./icons/database.svg) | ![database](./icons/database.svg) |
 | delete.forward | [/icons/delete/delete-forward.svg](./icons/delete/delete-forward.svg) | ![delete.forward](./icons/delete/delete-forward.svg) |
 | delete | [/icons/delete/delete.svg](./icons/delete/delete.svg) | ![delete](./icons/delete/delete.svg) |
@@ -366,9 +370,6 @@ Generated on 2025-10-10T23:15:31.822Z
 | strikethrough | [/icons/strikethrough.svg](./icons/strikethrough.svg) | ![strikethrough](./icons/strikethrough.svg) |
 | sun | [/icons/sun.svg](./icons/sun.svg) | ![sun](./icons/sun.svg) |
 | tangent | [/icons/tangent.svg](./icons/tangent.svg) | ![tangent](./icons/tangent.svg) |
-| text.cursor.input.alt | [/icons/text/text-cursor-input-alt.svg](./icons/text/text-cursor-input-alt.svg) | ![text.cursor.input.alt](./icons/text/text-cursor-input-alt.svg) |
-| text.cursor.input | [/icons/text/text-cursor-input.svg](./icons/text/text-cursor-input.svg) | ![text.cursor.input](./icons/text/text-cursor-input.svg) |
-| text.cursor | [/icons/text/text-cursor.svg](./icons/text/text-cursor.svg) | ![text.cursor](./icons/text/text-cursor.svg) |
 | textformat.size | [/icons/textformat/textformat-size.svg](./icons/textformat/textformat-size.svg) | ![textformat.size](./icons/textformat/textformat-size.svg) |
 | textformat | [/icons/textformat/textformat.svg](./icons/textformat/textformat.svg) | ![textformat](./icons/textformat/textformat.svg) |
 | ticket.ripped | [/icons/ticket/ticket-ripped.svg](./icons/ticket/ticket-ripped.svg) | ![ticket.ripped](./icons/ticket/ticket-ripped.svg) |
