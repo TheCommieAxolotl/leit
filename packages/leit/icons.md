@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-10-11T01:55:34.700Z
+Generated on 2025-10-22T05:37:57.684Z
 
 ---
 
@@ -187,6 +187,7 @@ Generated on 2025-10-11T01:55:34.700Z
 | derivative.partial | [/icons/derivative/derivative-partial.svg](./icons/derivative/derivative-partial.svg) | ![derivative.partial](./icons/derivative/derivative-partial.svg) |
 | derivative.prime | [/icons/derivative/derivative-prime.svg](./icons/derivative/derivative-prime.svg) | ![derivative.prime](./icons/derivative/derivative-prime.svg) |
 | derivative | [/icons/derivative/derivative.svg](./icons/derivative/derivative.svg) | ![derivative](./icons/derivative/derivative.svg) |
+| device | [/icons/device.svg](./icons/device.svg) | ![device](./icons/device.svg) |
 | diamond.fill | [/icons/diamond/diamond-fill.svg](./icons/diamond/diamond-fill.svg) | ![diamond.fill](./icons/diamond/diamond-fill.svg) |
 | diamond.shade | [/icons/diamond/diamond-shade.svg](./icons/diamond/diamond-shade.svg) | ![diamond.shade](./icons/diamond/diamond-shade.svg) |
 | diamond | [/icons/diamond/diamond.svg](./icons/diamond/diamond.svg) | ![diamond](./icons/diamond/diamond.svg) |
@@ -281,6 +282,7 @@ Generated on 2025-10-11T01:55:34.700Z
 | minus.circle | [/icons/minus/minus-circle.svg](./icons/minus/minus-circle.svg) | ![minus.circle](./icons/minus/minus-circle.svg) |
 | minus.square | [/icons/minus/minus-square.svg](./icons/minus/minus-square.svg) | ![minus.square](./icons/minus/minus-square.svg) |
 | minus | [/icons/minus/minus.svg](./icons/minus/minus.svg) | ![minus](./icons/minus/minus.svg) |
+| moon | [/icons/moon.svg](./icons/moon.svg) | ![moon](./icons/moon.svg) |
 | more.circle | [/icons/more/more-circle.svg](./icons/more/more-circle.svg) | ![more.circle](./icons/more/more-circle.svg) |
 | more.square | [/icons/more/more-square.svg](./icons/more/more-square.svg) | ![more.square](./icons/more/more-square.svg) |
 | more.vertical.circle | [/icons/more/more-vertical-circle.svg](./icons/more/more-vertical-circle.svg) | ![more.vertical.circle](./icons/more/more-vertical-circle.svg) |
