@@ -2,7 +2,8 @@
     "private": true,
     "scripts": {
         "make-icons": "turbo make-icons",
-        "build": "turbo build"
+        "build": "turbo build",
+        "release": "tsx ./scripts/release.ts"
     },
     "packageManager": "pnpm@10.11.0",
     "devDependencies": {
