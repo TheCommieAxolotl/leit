@@ -307,6 +307,7 @@ export { default as Pentagon } from "./components/Pentagon";
 export { default as PercentCircle } from "./components/PercentCircle";
 export { default as PercentSquare } from "./components/PercentSquare";
 export { default as Percent } from "./components/Percent";
+export { default as Person2Alt } from "./components/Person2Alt";
 export { default as Person2 } from "./components/Person2";
 export { default as PersonCircle } from "./components/PersonCircle";
 export { default as PersonMinus } from "./components/PersonMinus";

@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-10-26T00:26:44.126Z
+Generated on 2025-10-27T08:07:33.228Z
 
 ---
 
@@ -315,6 +315,7 @@ Generated on 2025-10-26T00:26:44.126Z
 | percent.circle | [/icons/percent/percent-circle.svg](./icons/percent/percent-circle.svg) | ![percent.circle](./icons/percent/percent-circle.svg) |
 | percent.square | [/icons/percent/percent-square.svg](./icons/percent/percent-square.svg) | ![percent.square](./icons/percent/percent-square.svg) |
 | percent | [/icons/percent/percent.svg](./icons/percent/percent.svg) | ![percent](./icons/percent/percent.svg) |
+| person.2.alt | [/icons/person/person-2-alt.svg](./icons/person/person-2-alt.svg) | ![person.2.alt](./icons/person/person-2-alt.svg) |
 | person.2 | [/icons/person/person-2.svg](./icons/person/person-2.svg) | ![person.2](./icons/person/person-2.svg) |
 | person.circle | [/icons/person/person-circle.svg](./icons/person/person-circle.svg) | ![person.circle](./icons/person/person-circle.svg) |
 | person.minus | [/icons/person/person-minus.svg](./icons/person/person-minus.svg) | ![person.minus](./icons/person/person-minus.svg) |
