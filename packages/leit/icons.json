@@ -419,5 +419,7 @@
   "x.square": "/icons/x/x-square.svg",
   "x.sup.2": "/icons/x/x-sup-2.svg",
   "x.sup": "/icons/x/x-sup.svg",
-  "x": "/icons/x/x.svg"
+  "x": "/icons/x/x.svg",
+  "zoom.minus": "/icons/zoom/zoom-minus.svg",
+  "zoom.plus": "/icons/zoom/zoom-plus.svg"
 }

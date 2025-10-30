@@ -419,3 +419,5 @@ export { default as XSquare } from "./components/XSquare";
 export { default as XSup2 } from "./components/XSup2";
 export { default as XSup } from "./components/XSup";
 export { default as X } from "./components/X";
+export { default as ZoomMinus } from "./components/ZoomMinus";
+export { default as ZoomPlus } from "./components/ZoomPlus";

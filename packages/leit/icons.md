@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-10-27T08:07:33.228Z
+Generated on 2025-10-30T03:14:06.453Z
 
 ---
 
@@ -427,3 +427,5 @@ Generated on 2025-10-27T08:07:33.228Z
 | x.sup.2 | [/icons/x/x-sup-2.svg](./icons/x/x-sup-2.svg) | ![x.sup.2](./icons/x/x-sup-2.svg) |
 | x.sup | [/icons/x/x-sup.svg](./icons/x/x-sup.svg) | ![x.sup](./icons/x/x-sup.svg) |
 | x | [/icons/x/x.svg](./icons/x/x.svg) | ![x](./icons/x/x.svg) |
+| zoom.minus | [/icons/zoom/zoom-minus.svg](./icons/zoom/zoom-minus.svg) | ![zoom.minus](./icons/zoom/zoom-minus.svg) |
+| zoom.plus | [/icons/zoom/zoom-plus.svg](./icons/zoom/zoom-plus.svg) | ![zoom.plus](./icons/zoom/zoom-plus.svg) |
