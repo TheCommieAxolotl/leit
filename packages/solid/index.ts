@@ -292,6 +292,7 @@ export { default as OptionsAlt } from "./components/OptionsAlt";
 export { default as Options } from "./components/Options";
 export { default as PackageOpen } from "./components/PackageOpen";
 export { default as Package } from "./components/Package";
+export { default as Paintbrush } from "./components/Paintbrush";
 export { default as PaperplaneHorizontal } from "./components/PaperplaneHorizontal";
 export { default as Paperplane } from "./components/Paperplane";
 export { default as ParagraphRtl } from "./components/ParagraphRtl";
