@@ -373,6 +373,7 @@ export { default as Textformat } from "./components/Textformat";
 export { default as TicketRipped } from "./components/TicketRipped";
 export { default as Ticket } from "./components/Ticket";
 export { default as Tilde } from "./components/Tilde";
+export { default as Trash } from "./components/Trash";
 export { default as TreeDead } from "./components/TreeDead";
 export { default as TreePine } from "./components/TreePine";
 export { default as Tree } from "./components/Tree";

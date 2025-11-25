@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-11-03T08:06:17.139Z
+Generated on 2025-11-25T04:41:04.215Z
 
 ---
 
@@ -381,6 +381,7 @@ Generated on 2025-11-03T08:06:17.139Z
 | ticket.ripped | [/icons/ticket/ticket-ripped.svg](./icons/ticket/ticket-ripped.svg) | ![ticket.ripped](./icons/ticket/ticket-ripped.svg) |
 | ticket | [/icons/ticket/ticket.svg](./icons/ticket/ticket.svg) | ![ticket](./icons/ticket/ticket.svg) |
 | tilde | [/icons/tilde.svg](./icons/tilde.svg) | ![tilde](./icons/tilde.svg) |
+| trash | [/icons/trash.svg](./icons/trash.svg) | ![trash](./icons/trash.svg) |
 | tree.dead | [/icons/tree/tree-dead.svg](./icons/tree/tree-dead.svg) | ![tree.dead](./icons/tree/tree-dead.svg) |
 | tree.pine | [/icons/tree/tree-pine.svg](./icons/tree/tree-pine.svg) | ![tree.pine](./icons/tree/tree-pine.svg) |
 | tree | [/icons/tree/tree.svg](./icons/tree/tree.svg) | ![tree](./icons/tree/tree.svg) |
