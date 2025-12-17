@@ -337,6 +337,8 @@ export { default as Rectangle } from "./components/Rectangle";
 export { default as Regex } from "./components/Regex";
 export { default as ReloadCcw } from "./components/ReloadCcw";
 export { default as ReloadCw } from "./components/ReloadCw";
+export { default as ReturnRight } from "./components/ReturnRight";
+export { default as Return } from "./components/Return";
 export { default as Ruler } from "./components/Ruler";
 export { default as Search } from "./components/Search";
 export { default as Share } from "./components/Share";

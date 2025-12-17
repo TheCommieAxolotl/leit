@@ -338,6 +338,8 @@
   "regex": "/icons/regex.svg",
   "reload.ccw": "/icons/reload/reload-ccw.svg",
   "reload.cw": "/icons/reload/reload-cw.svg",
+  "return.right": "/icons/return/return-right.svg",
+  "return": "/icons/return/return.svg",
   "ruler": "/icons/ruler.svg",
   "search": "/icons/search.svg",
   "share": "/icons/share.svg",

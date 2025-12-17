@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-12-13T03:05:57.262Z
+Generated on 2025-12-17T08:58:27.121Z
 
 ---
 
@@ -345,6 +345,8 @@ Generated on 2025-12-13T03:05:57.262Z
 | regex | [/icons/regex.svg](./icons/regex.svg) | ![regex](./icons/regex.svg) |
 | reload.ccw | [/icons/reload/reload-ccw.svg](./icons/reload/reload-ccw.svg) | ![reload.ccw](./icons/reload/reload-ccw.svg) |
 | reload.cw | [/icons/reload/reload-cw.svg](./icons/reload/reload-cw.svg) | ![reload.cw](./icons/reload/reload-cw.svg) |
+| return.right | [/icons/return/return-right.svg](./icons/return/return-right.svg) | ![return.right](./icons/return/return-right.svg) |
+| return | [/icons/return/return.svg](./icons/return/return.svg) | ![return](./icons/return/return.svg) |
 | ruler | [/icons/ruler.svg](./icons/ruler.svg) | ![ruler](./icons/ruler.svg) |
 | search | [/icons/search.svg](./icons/search.svg) | ![search](./icons/search.svg) |
 | share | [/icons/share.svg](./icons/share.svg) | ![share](./icons/share.svg) |
