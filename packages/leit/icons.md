@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-12-17T08:58:57.543Z
+Generated on 2025-12-19T00:14:12.851Z
 
 ---
 
@@ -255,6 +255,8 @@ Generated on 2025-12-17T08:58:57.543Z
 | integral.definite | [/icons/integral/integral-definite.svg](./icons/integral/integral-definite.svg) | ![integral.definite](./icons/integral/integral-definite.svg) |
 | integral | [/icons/integral/integral.svg](./icons/integral/integral.svg) | ![integral](./icons/integral/integral.svg) |
 | italic | [/icons/italic.svg](./icons/italic.svg) | ![italic](./icons/italic.svg) |
+| key.alt | [/icons/key/key-alt.svg](./icons/key/key-alt.svg) | ![key.alt](./icons/key/key-alt.svg) |
+| key | [/icons/key/key.svg](./icons/key/key.svg) | ![key](./icons/key/key.svg) |
 | keyboard | [/icons/keyboard.svg](./icons/keyboard.svg) | ![keyboard](./icons/keyboard.svg) |
 | leaf | [/icons/leaf.svg](./icons/leaf.svg) | ![leaf](./icons/leaf.svg) |
 | library | [/icons/library.svg](./icons/library.svg) | ![library](./icons/library.svg) |
@@ -335,6 +337,8 @@ Generated on 2025-12-17T08:58:57.543Z
 | plus.circle | [/icons/plus/plus-circle.svg](./icons/plus/plus-circle.svg) | ![plus.circle](./icons/plus/plus-circle.svg) |
 | plus.square | [/icons/plus/plus-square.svg](./icons/plus/plus-square.svg) | ![plus.square](./icons/plus/plus-square.svg) |
 | plus | [/icons/plus/plus.svg](./icons/plus/plus.svg) | ![plus](./icons/plus/plus.svg) |
+| puzzlepiece.bothends | [/icons/puzzlepiece/puzzlepiece-bothends.svg](./icons/puzzlepiece/puzzlepiece-bothends.svg) | ![puzzlepiece.bothends](./icons/puzzlepiece/puzzlepiece-bothends.svg) |
+| puzzlepiece | [/icons/puzzlepiece/puzzlepiece.svg](./icons/puzzlepiece/puzzlepiece.svg) | ![puzzlepiece](./icons/puzzlepiece/puzzlepiece.svg) |
 | recieve | [/icons/recieve.svg](./icons/recieve.svg) | ![recieve](./icons/recieve.svg) |
 | rectangle.fill | [/icons/rectangle/rectangle-fill.svg](./icons/rectangle/rectangle-fill.svg) | ![rectangle.fill](./icons/rectangle/rectangle-fill.svg) |
 | rectangle.shade | [/icons/rectangle/rectangle-shade.svg](./icons/rectangle/rectangle-shade.svg) | ![rectangle.shade](./icons/rectangle/rectangle-shade.svg) |
