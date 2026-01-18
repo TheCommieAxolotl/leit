@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2025-12-19T00:14:12.851Z
+Generated on 2026-01-18T06:46:39.467Z
 
 ---
 
@@ -16,6 +16,7 @@ Generated on 2025-12-19T00:14:12.851Z
 | align.vertical.bottom | [/icons/align/align-vertical-bottom.svg](./icons/align/align-vertical-bottom.svg) | ![align.vertical.bottom](./icons/align/align-vertical-bottom.svg) |
 | align.vertical.center | [/icons/align/align-vertical-center.svg](./icons/align/align-vertical-center.svg) | ![align.vertical.center](./icons/align/align-vertical-center.svg) |
 | align.vertical.top | [/icons/align/align-vertical-top.svg](./icons/align/align-vertical-top.svg) | ![align.vertical.top](./icons/align/align-vertical-top.svg) |
+| all | [/icons/all.svg](./icons/all.svg) | ![all](./icons/all.svg) |
 | alt | [/icons/alt.svg](./icons/alt.svg) | ![alt](./icons/alt.svg) |
 | ampersand | [/icons/ampersand.svg](./icons/ampersand.svg) | ![ampersand](./icons/ampersand.svg) |
 | arrow.both.nesw | [/icons/arrow/arrow-both-nesw.svg](./icons/arrow/arrow-both-nesw.svg) | ![arrow.both.nesw](./icons/arrow/arrow-both-nesw.svg) |
@@ -161,7 +162,8 @@ Generated on 2025-12-19T00:14:12.851Z
 | cloud.sun.rain | [/icons/cloud/cloud-sun-rain.svg](./icons/cloud/cloud-sun-rain.svg) | ![cloud.sun.rain](./icons/cloud/cloud-sun-rain.svg) |
 | cloud.sun | [/icons/cloud/cloud-sun.svg](./icons/cloud/cloud-sun.svg) | ![cloud.sun](./icons/cloud/cloud-sun.svg) |
 | cloud | [/icons/cloud/cloud.svg](./icons/cloud/cloud.svg) | ![cloud](./icons/cloud/cloud.svg) |
-| code | [/icons/code.svg](./icons/code.svg) | ![code](./icons/code.svg) |
+| code.alt | [/icons/code/code-alt.svg](./icons/code/code-alt.svg) | ![code.alt](./icons/code/code-alt.svg) |
+| code | [/icons/code/code.svg](./icons/code/code.svg) | ![code](./icons/code/code.svg) |
 | cog | [/icons/cog.svg](./icons/cog.svg) | ![cog](./icons/cog.svg) |
 | command | [/icons/command.svg](./icons/command.svg) | ![command](./icons/command.svg) |
 | control | [/icons/control.svg](./icons/control.svg) | ![control](./icons/control.svg) |
@@ -208,7 +210,9 @@ Generated on 2025-12-19T00:14:12.851Z
 | equal.not | [/icons/equal/equal-not.svg](./icons/equal/equal-not.svg) | ![equal.not](./icons/equal/equal-not.svg) |
 | equal | [/icons/equal/equal.svg](./icons/equal/equal.svg) | ![equal](./icons/equal/equal.svg) |
 | escape | [/icons/escape.svg](./icons/escape.svg) | ![escape](./icons/escape.svg) |
+| every | [/icons/every.svg](./icons/every.svg) | ![every](./icons/every.svg) |
 | exclamation.circle | [/icons/exclamation/exclamation-circle.svg](./icons/exclamation/exclamation-circle.svg) | ![exclamation.circle](./icons/exclamation/exclamation-circle.svg) |
+| exclamation.shield | [/icons/exclamation/exclamation-shield.svg](./icons/exclamation/exclamation-shield.svg) | ![exclamation.shield](./icons/exclamation/exclamation-shield.svg) |
 | exclamation.square | [/icons/exclamation/exclamation-square.svg](./icons/exclamation/exclamation-square.svg) | ![exclamation.square](./icons/exclamation/exclamation-square.svg) |
 | exclamation.triangle | [/icons/exclamation/exclamation-triangle.svg](./icons/exclamation/exclamation-triangle.svg) | ![exclamation.triangle](./icons/exclamation/exclamation-triangle.svg) |
 | exclamation | [/icons/exclamation/exclamation.svg](./icons/exclamation/exclamation.svg) | ![exclamation](./icons/exclamation/exclamation.svg) |
@@ -249,11 +253,14 @@ Generated on 2025-12-19T00:14:12.851Z
 | hexagon | [/icons/hexagon/hexagon.svg](./icons/hexagon/hexagon.svg) | ![hexagon](./icons/hexagon/hexagon.svg) |
 | home | [/icons/home.svg](./icons/home.svg) | ![home](./icons/home.svg) |
 | hourglass | [/icons/hourglass.svg](./icons/hourglass.svg) | ![hourglass](./icons/hourglass.svg) |
+| iff | [/icons/iff.svg](./icons/iff.svg) | ![iff](./icons/iff.svg) |
+| implies | [/icons/implies.svg](./icons/implies.svg) | ![implies](./icons/implies.svg) |
 | info | [/icons/info.svg](./icons/info.svg) | ![info](./icons/info.svg) |
 | integral.2 | [/icons/integral/integral-2.svg](./icons/integral/integral-2.svg) | ![integral.2](./icons/integral/integral-2.svg) |
 | integral.contour | [/icons/integral/integral-contour.svg](./icons/integral/integral-contour.svg) | ![integral.contour](./icons/integral/integral-contour.svg) |
 | integral.definite | [/icons/integral/integral-definite.svg](./icons/integral/integral-definite.svg) | ![integral.definite](./icons/integral/integral-definite.svg) |
 | integral | [/icons/integral/integral.svg](./icons/integral/integral.svg) | ![integral](./icons/integral/integral.svg) |
+| intersection | [/icons/intersection.svg](./icons/intersection.svg) | ![intersection](./icons/intersection.svg) |
 | italic | [/icons/italic.svg](./icons/italic.svg) | ![italic](./icons/italic.svg) |
 | key.alt | [/icons/key/key-alt.svg](./icons/key/key-alt.svg) | ![key.alt](./icons/key/key-alt.svg) |
 | key | [/icons/key/key.svg](./icons/key/key.svg) | ![key](./icons/key/key.svg) |
@@ -354,6 +361,10 @@ Generated on 2025-12-19T00:14:12.851Z
 | ruler | [/icons/ruler.svg](./icons/ruler.svg) | ![ruler](./icons/ruler.svg) |
 | search | [/icons/search.svg](./icons/search.svg) | ![search](./icons/search.svg) |
 | share | [/icons/share.svg](./icons/share.svg) | ![share](./icons/share.svg) |
+| shell | [/icons/shell.svg](./icons/shell.svg) | ![shell](./icons/shell.svg) |
+| shield.fill | [/icons/shield/shield-fill.svg](./icons/shield/shield-fill.svg) | ![shield.fill](./icons/shield/shield-fill.svg) |
+| shield.shade | [/icons/shield/shield-shade.svg](./icons/shield/shield-shade.svg) | ![shield.shade](./icons/shield/shield-shade.svg) |
+| shield | [/icons/shield/shield.svg](./icons/shield/shield.svg) | ![shield](./icons/shield/shield.svg) |
 | shift | [/icons/shift.svg](./icons/shift.svg) | ![shift](./icons/shift.svg) |
 | sigma.capital | [/icons/sigma/sigma-capital.svg](./icons/sigma/sigma-capital.svg) | ![sigma.capital](./icons/sigma/sigma-capital.svg) |
 | sigma | [/icons/sigma/sigma.svg](./icons/sigma/sigma.svg) | ![sigma](./icons/sigma/sigma.svg) |
@@ -380,7 +391,9 @@ Generated on 2025-12-19T00:14:12.851Z
 | star.shade | [/icons/star/star-shade.svg](./icons/star/star-shade.svg) | ![star.shade](./icons/star/star-shade.svg) |
 | star | [/icons/star/star.svg](./icons/star/star.svg) | ![star](./icons/star/star.svg) |
 | strikethrough | [/icons/strikethrough.svg](./icons/strikethrough.svg) | ![strikethrough](./icons/strikethrough.svg) |
+| subset | [/icons/subset.svg](./icons/subset.svg) | ![subset](./icons/subset.svg) |
 | sun | [/icons/sun.svg](./icons/sun.svg) | ![sun](./icons/sun.svg) |
+| superset | [/icons/superset.svg](./icons/superset.svg) | ![superset](./icons/superset.svg) |
 | tangent | [/icons/tangent.svg](./icons/tangent.svg) | ![tangent](./icons/tangent.svg) |
 | textformat.size | [/icons/textformat/textformat-size.svg](./icons/textformat/textformat-size.svg) | ![textformat.size](./icons/textformat/textformat-size.svg) |
 | textformat | [/icons/textformat/textformat.svg](./icons/textformat/textformat.svg) | ![textformat](./icons/textformat/textformat.svg) |
@@ -397,6 +410,7 @@ Generated on 2025-12-19T00:14:12.851Z
 | triangle | [/icons/triangle/triangle.svg](./icons/triangle/triangle.svg) | ![triangle](./icons/triangle/triangle.svg) |
 | trophy | [/icons/trophy.svg](./icons/trophy.svg) | ![trophy](./icons/trophy.svg) |
 | underline | [/icons/underline.svg](./icons/underline.svg) | ![underline](./icons/underline.svg) |
+| union | [/icons/union.svg](./icons/union.svg) | ![union](./icons/union.svg) |
 | upload | [/icons/upload.svg](./icons/upload.svg) | ![upload](./icons/upload.svg) |
 | variable | [/icons/variable.svg](./icons/variable.svg) | ![variable](./icons/variable.svg) |
 | wifi.low | [/icons/wifi/wifi-low.svg](./icons/wifi/wifi-low.svg) | ![wifi.low](./icons/wifi/wifi-low.svg) |
