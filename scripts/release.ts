@@ -13,13 +13,13 @@ const packageDirs = fs.readdirSync(packagesDir).filter((dir) => {
     return fs.statSync(fullPath).isDirectory();
 });
 
-for (const dir of packageDirs) {
-    const packagePath = path.join(packagesDir, dir);
-    execSync("pnpm version patch --no-git-tag-version", {
-        stdio: "inherit",
-        cwd: packagePath,
-    });
-}
+// for (const dir of packageDirs) {
+//     const packagePath = path.join(packagesDir, dir);
+//     execSync("pnpm version patch --no-git-tag-version", {
+//         stdio: "inherit",
+//         cwd: packagePath,
+//     });
+// }
 
 execSync("git add .", { stdio: "inherit", cwd: __dirname });
 execSync('git commit -am "chore: rerelease packages"', {
