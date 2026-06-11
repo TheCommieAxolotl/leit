@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-01-29T11:37:52.036Z
+Generated on 2026-06-11T22:22:03.367Z
 
 ---
 
@@ -86,6 +86,7 @@ Generated on 2026-01-29T11:37:52.036Z
 | battery.off | [/icons/battery/battery-off.svg](./icons/battery/battery-off.svg) | ![battery.off](./icons/battery/battery-off.svg) |
 | battery | [/icons/battery/battery.svg](./icons/battery/battery.svg) | ![battery](./icons/battery/battery.svg) |
 | beaker | [/icons/beaker.svg](./icons/beaker.svg) | ![beaker](./icons/beaker.svg) |
+| because | [/icons/because.svg](./icons/because.svg) | ![because](./icons/because.svg) |
 | bluetooth.off | [/icons/bluetooth/bluetooth-off.svg](./icons/bluetooth/bluetooth-off.svg) | ![bluetooth.off](./icons/bluetooth/bluetooth-off.svg) |
 | bluetooth | [/icons/bluetooth/bluetooth.svg](./icons/bluetooth/bluetooth.svg) | ![bluetooth](./icons/bluetooth/bluetooth.svg) |
 | bold.emphasis | [/icons/bold/bold-emphasis.svg](./icons/bold/bold-emphasis.svg) | ![bold.emphasis](./icons/bold/bold-emphasis.svg) |
@@ -216,6 +217,7 @@ Generated on 2026-01-29T11:37:52.036Z
 | exclamation.square | [/icons/exclamation/exclamation-square.svg](./icons/exclamation/exclamation-square.svg) | ![exclamation.square](./icons/exclamation/exclamation-square.svg) |
 | exclamation.triangle | [/icons/exclamation/exclamation-triangle.svg](./icons/exclamation/exclamation-triangle.svg) | ![exclamation.triangle](./icons/exclamation/exclamation-triangle.svg) |
 | exclamation | [/icons/exclamation/exclamation.svg](./icons/exclamation/exclamation.svg) | ![exclamation](./icons/exclamation/exclamation.svg) |
+| exists | [/icons/exists.svg](./icons/exists.svg) | ![exists](./icons/exists.svg) |
 | eye.off | [/icons/eye/eye-off.svg](./icons/eye/eye-off.svg) | ![eye.off](./icons/eye/eye-off.svg) |
 | eye | [/icons/eye/eye.svg](./icons/eye/eye.svg) | ![eye](./icons/eye/eye.svg) |
 | file.a | [/icons/file/file-a.svg](./icons/file/file-a.svg) | ![file.a](./icons/file/file-a.svg) |
@@ -231,6 +233,7 @@ Generated on 2026-01-29T11:37:52.036Z
 | folder.plus | [/icons/folder/folder-plus.svg](./icons/folder/folder-plus.svg) | ![folder.plus](./icons/folder/folder-plus.svg) |
 | folder.text | [/icons/folder/folder-text.svg](./icons/folder/folder-text.svg) | ![folder.text](./icons/folder/folder-text.svg) |
 | folder | [/icons/folder/folder.svg](./icons/folder/folder.svg) | ![folder](./icons/folder/folder.svg) |
+| for.all | [/icons/for-all.svg](./icons/for-all.svg) | ![for.all](./icons/for-all.svg) |
 | function | [/icons/function.svg](./icons/function.svg) | ![function](./icons/function.svg) |
 | gamma.capital | [/icons/gamma/gamma-capital.svg](./icons/gamma/gamma-capital.svg) | ![gamma.capital](./icons/gamma/gamma-capital.svg) |
 | gamma | [/icons/gamma/gamma.svg](./icons/gamma/gamma.svg) | ![gamma](./icons/gamma/gamma.svg) |
@@ -257,10 +260,13 @@ Generated on 2026-01-29T11:37:52.036Z
 | implies | [/icons/implies.svg](./icons/implies.svg) | ![implies](./icons/implies.svg) |
 | info | [/icons/info.svg](./icons/info.svg) | ![info](./icons/info.svg) |
 | integral.2 | [/icons/integral/integral-2.svg](./icons/integral/integral-2.svg) | ![integral.2](./icons/integral/integral-2.svg) |
+| integral.contour.2 | [/icons/integral/integral-contour-2.svg](./icons/integral/integral-contour-2.svg) | ![integral.contour.2](./icons/integral/integral-contour-2.svg) |
 | integral.contour | [/icons/integral/integral-contour.svg](./icons/integral/integral-contour.svg) | ![integral.contour](./icons/integral/integral-contour.svg) |
 | integral.definite | [/icons/integral/integral-definite.svg](./icons/integral/integral-definite.svg) | ![integral.definite](./icons/integral/integral-definite.svg) |
 | integral | [/icons/integral/integral.svg](./icons/integral/integral.svg) | ![integral](./icons/integral/integral.svg) |
 | intersection | [/icons/intersection.svg](./icons/intersection.svg) | ![intersection](./icons/intersection.svg) |
+| ipc.down | [/icons/ipc/ipc-down.svg](./icons/ipc/ipc-down.svg) | ![ipc.down](./icons/ipc/ipc-down.svg) |
+| ipc.up | [/icons/ipc/ipc-up.svg](./icons/ipc/ipc-up.svg) | ![ipc.up](./icons/ipc/ipc-up.svg) |
 | italic | [/icons/italic.svg](./icons/italic.svg) | ![italic](./icons/italic.svg) |
 | key.alt | [/icons/key/key-alt.svg](./icons/key/key-alt.svg) | ![key.alt](./icons/key/key-alt.svg) |
 | key | [/icons/key/key.svg](./icons/key/key.svg) | ![key](./icons/key/key.svg) |
@@ -380,6 +386,8 @@ Generated on 2026-01-29T11:37:52.036Z
 | slash.square | [/icons/slash/slash-square.svg](./icons/slash/slash-square.svg) | ![slash.square](./icons/slash/slash-square.svg) |
 | slash | [/icons/slash/slash.svg](./icons/slash/slash.svg) | ![slash](./icons/slash/slash.svg) |
 | space | [/icons/space.svg](./icons/space.svg) | ![space](./icons/space.svg) |
+| span.arrow | [/icons/span/span-arrow.svg](./icons/span/span-arrow.svg) | ![span.arrow](./icons/span/span-arrow.svg) |
+| span | [/icons/span/span.svg](./icons/span/span.svg) | ![span](./icons/span/span.svg) |
 | sparkle.2 | [/icons/sparkle/sparkle-2.svg](./icons/sparkle/sparkle-2.svg) | ![sparkle.2](./icons/sparkle/sparkle-2.svg) |
 | sparkle.3 | [/icons/sparkle/sparkle-3.svg](./icons/sparkle/sparkle-3.svg) | ![sparkle.3](./icons/sparkle/sparkle-3.svg) |
 | sparkle | [/icons/sparkle/sparkle.svg](./icons/sparkle/sparkle.svg) | ![sparkle](./icons/sparkle/sparkle.svg) |
@@ -397,6 +405,7 @@ Generated on 2026-01-29T11:37:52.036Z
 | tangent | [/icons/tangent.svg](./icons/tangent.svg) | ![tangent](./icons/tangent.svg) |
 | textformat.size | [/icons/textformat/textformat-size.svg](./icons/textformat/textformat-size.svg) | ![textformat.size](./icons/textformat/textformat-size.svg) |
 | textformat | [/icons/textformat/textformat.svg](./icons/textformat/textformat.svg) | ![textformat](./icons/textformat/textformat.svg) |
+| therefore | [/icons/therefore.svg](./icons/therefore.svg) | ![therefore](./icons/therefore.svg) |
 | ticket.ripped | [/icons/ticket/ticket-ripped.svg](./icons/ticket/ticket-ripped.svg) | ![ticket.ripped](./icons/ticket/ticket-ripped.svg) |
 | ticket | [/icons/ticket/ticket.svg](./icons/ticket/ticket.svg) | ![ticket](./icons/ticket/ticket.svg) |
 | tilde | [/icons/tilde.svg](./icons/tilde.svg) | ![tilde](./icons/tilde.svg) |
