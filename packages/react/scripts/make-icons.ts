@@ -19,6 +19,10 @@ const makeComponent = (name: string, content: string) => {
         // reactisms
         ["stroke-linejoin", "strokeLinejoin"],
         ["stroke-linecap", "strokeLinecap"],
+        ["stop-color", "stopColor"],
+        ["fill-rule", "fillRule"],
+        ["stop-opacity", "stopOpacity"],
+        ["clip-rule", "clipRule"]
     ] as const;
 
     const replacedContent = replacements.reduce((acc, [oldColor, newColor]) => {
