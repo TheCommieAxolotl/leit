@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-07-08T12:06:38.624Z
+Generated on 2026-07-08T12:17:10.650Z
 
 ---
 
@@ -16,7 +16,6 @@ Generated on 2026-07-08T12:06:38.624Z
 | align.vertical.bottom | [/icons/align/align-vertical-bottom.svg](./icons/align/align-vertical-bottom.svg) | ![align.vertical.bottom](./icons/align/align-vertical-bottom.svg) |
 | align.vertical.center | [/icons/align/align-vertical-center.svg](./icons/align/align-vertical-center.svg) | ![align.vertical.center](./icons/align/align-vertical-center.svg) |
 | align.vertical.top | [/icons/align/align-vertical-top.svg](./icons/align/align-vertical-top.svg) | ![align.vertical.top](./icons/align/align-vertical-top.svg) |
-| all | [/icons/all.svg](./icons/all.svg) | ![all](./icons/all.svg) |
 | alt | [/icons/alt.svg](./icons/alt.svg) | ![alt](./icons/alt.svg) |
 | ampersand | [/icons/ampersand.svg](./icons/ampersand.svg) | ![ampersand](./icons/ampersand.svg) |
 | arrow.both.nesw | [/icons/arrow/arrow-both-nesw.svg](./icons/arrow/arrow-both-nesw.svg) | ![arrow.both.nesw](./icons/arrow/arrow-both-nesw.svg) |
@@ -212,7 +211,6 @@ Generated on 2026-07-08T12:06:38.624Z
 | equal.not | [/icons/equal/equal-not.svg](./icons/equal/equal-not.svg) | ![equal.not](./icons/equal/equal-not.svg) |
 | equal | [/icons/equal/equal.svg](./icons/equal/equal.svg) | ![equal](./icons/equal/equal.svg) |
 | escape | [/icons/escape.svg](./icons/escape.svg) | ![escape](./icons/escape.svg) |
-| every | [/icons/every.svg](./icons/every.svg) | ![every](./icons/every.svg) |
 | exclamation.circle | [/icons/exclamation/exclamation-circle.svg](./icons/exclamation/exclamation-circle.svg) | ![exclamation.circle](./icons/exclamation/exclamation-circle.svg) |
 | exclamation.shield | [/icons/exclamation/exclamation-shield.svg](./icons/exclamation/exclamation-shield.svg) | ![exclamation.shield](./icons/exclamation/exclamation-shield.svg) |
 | exclamation.square | [/icons/exclamation/exclamation-square.svg](./icons/exclamation/exclamation-square.svg) | ![exclamation.square](./icons/exclamation/exclamation-square.svg) |
