@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-06-13T05:32:06.413Z
+Generated on 2026-07-08T12:05:49.757Z
 
 ---
 
@@ -166,6 +166,7 @@ Generated on 2026-06-13T05:32:06.413Z
 | code.alt | [/icons/code/code-alt.svg](./icons/code/code-alt.svg) | ![code.alt](./icons/code/code-alt.svg) |
 | code | [/icons/code/code.svg](./icons/code/code.svg) | ![code](./icons/code/code.svg) |
 | cog | [/icons/cog.svg](./icons/cog.svg) | ![cog](./icons/cog.svg) |
+| collapse | [/icons/collapse.svg](./icons/collapse.svg) | ![collapse](./icons/collapse.svg) |
 | command | [/icons/command.svg](./icons/command.svg) | ![command](./icons/command.svg) |
 | control | [/icons/control.svg](./icons/control.svg) | ![control](./icons/control.svg) |
 | copy | [/icons/copy.svg](./icons/copy.svg) | ![copy](./icons/copy.svg) |
@@ -218,8 +219,13 @@ Generated on 2026-06-13T05:32:06.413Z
 | exclamation.triangle | [/icons/exclamation/exclamation-triangle.svg](./icons/exclamation/exclamation-triangle.svg) | ![exclamation.triangle](./icons/exclamation/exclamation-triangle.svg) |
 | exclamation | [/icons/exclamation/exclamation.svg](./icons/exclamation/exclamation.svg) | ![exclamation](./icons/exclamation/exclamation.svg) |
 | exists | [/icons/exists.svg](./icons/exists.svg) | ![exists](./icons/exists.svg) |
+| expand | [/icons/expand.svg](./icons/expand.svg) | ![expand](./icons/expand.svg) |
 | eye.off | [/icons/eye/eye-off.svg](./icons/eye/eye-off.svg) | ![eye.off](./icons/eye/eye-off.svg) |
 | eye | [/icons/eye/eye.svg](./icons/eye/eye.svg) | ![eye](./icons/eye/eye.svg) |
+| fast.backwards.fill | [/icons/fast/fast-backwards-fill.svg](./icons/fast/fast-backwards-fill.svg) | ![fast.backwards.fill](./icons/fast/fast-backwards-fill.svg) |
+| fast.backwards | [/icons/fast/fast-backwards.svg](./icons/fast/fast-backwards.svg) | ![fast.backwards](./icons/fast/fast-backwards.svg) |
+| fast.forward.fill | [/icons/fast/fast-forward-fill.svg](./icons/fast/fast-forward-fill.svg) | ![fast.forward.fill](./icons/fast/fast-forward-fill.svg) |
+| fast.forward | [/icons/fast/fast-forward.svg](./icons/fast/fast-forward.svg) | ![fast.forward](./icons/fast/fast-forward.svg) |
 | file.a | [/icons/file/file-a.svg](./icons/file/file-a.svg) | ![file.a](./icons/file/file-a.svg) |
 | file.minus | [/icons/file/file-minus.svg](./icons/file/file-minus.svg) | ![file.minus](./icons/file/file-minus.svg) |
 | file.plus | [/icons/file/file-plus.svg](./icons/file/file-plus.svg) | ![file.plus](./icons/file/file-plus.svg) |
@@ -271,6 +277,7 @@ Generated on 2026-06-13T05:32:06.413Z
 | key.alt | [/icons/key/key-alt.svg](./icons/key/key-alt.svg) | ![key.alt](./icons/key/key-alt.svg) |
 | key | [/icons/key/key.svg](./icons/key/key.svg) | ![key](./icons/key/key.svg) |
 | keyboard | [/icons/keyboard.svg](./icons/keyboard.svg) | ![keyboard](./icons/keyboard.svg) |
+| layers | [/icons/layers.svg](./icons/layers.svg) | ![layers](./icons/layers.svg) |
 | leaf | [/icons/leaf.svg](./icons/leaf.svg) | ![leaf](./icons/leaf.svg) |
 | library | [/icons/library.svg](./icons/library.svg) | ![library](./icons/library.svg) |
 | line.end.circle | [/icons/line/line-end-circle.svg](./icons/line/line-end-circle.svg) | ![line.end.circle](./icons/line/line-end-circle.svg) |
@@ -281,6 +288,7 @@ Generated on 2026-06-13T05:32:06.413Z
 | link.couple | [/icons/link/link-couple.svg](./icons/link/link-couple.svg) | ![link.couple](./icons/link/link-couple.svg) |
 | link.external | [/icons/link/link-external.svg](./icons/link/link-external.svg) | ![link.external](./icons/link/link-external.svg) |
 | link | [/icons/link/link.svg](./icons/link/link.svg) | ![link](./icons/link/link.svg) |
+| list | [/icons/list.svg](./icons/list.svg) | ![list](./icons/list.svg) |
 | lock.open | [/icons/lock/lock-open.svg](./icons/lock/lock-open.svg) | ![lock.open](./icons/lock/lock-open.svg) |
 | lock | [/icons/lock/lock.svg](./icons/lock/lock.svg) | ![lock](./icons/lock/lock.svg) |
 | match | [/icons/match.svg](./icons/match.svg) | ![match](./icons/match.svg) |
@@ -310,6 +318,7 @@ Generated on 2026-06-13T05:32:06.413Z
 | octagon.shade | [/icons/octagon/octagon-shade.svg](./icons/octagon/octagon-shade.svg) | ![octagon.shade](./icons/octagon/octagon-shade.svg) |
 | octagon | [/icons/octagon/octagon.svg](./icons/octagon/octagon.svg) | ![octagon](./icons/octagon/octagon.svg) |
 | omega.capital | [/icons/omega/omega-capital.svg](./icons/omega/omega-capital.svg) | ![omega.capital](./icons/omega/omega-capital.svg) |
+| omega | [/icons/omega/omega.svg](./icons/omega/omega.svg) | ![omega](./icons/omega/omega.svg) |
 | option | [/icons/option.svg](./icons/option.svg) | ![option](./icons/option.svg) |
 | options.alt | [/icons/options/options-alt.svg](./icons/options/options-alt.svg) | ![options.alt](./icons/options/options-alt.svg) |
 | options | [/icons/options/options.svg](./icons/options/options.svg) | ![options](./icons/options/options.svg) |
@@ -321,7 +330,8 @@ Generated on 2026-06-13T05:32:06.413Z
 | paragraph.rtl | [/icons/paragraph/paragraph-rtl.svg](./icons/paragraph/paragraph-rtl.svg) | ![paragraph.rtl](./icons/paragraph/paragraph-rtl.svg) |
 | paragraph | [/icons/paragraph/paragraph.svg](./icons/paragraph/paragraph.svg) | ![paragraph](./icons/paragraph/paragraph.svg) |
 | parens | [/icons/parens.svg](./icons/parens.svg) | ![parens](./icons/parens.svg) |
-| pause | [/icons/pause.svg](./icons/pause.svg) | ![pause](./icons/pause.svg) |
+| pause.fill | [/icons/pause/pause-fill.svg](./icons/pause/pause-fill.svg) | ![pause.fill](./icons/pause/pause-fill.svg) |
+| pause | [/icons/pause/pause.svg](./icons/pause/pause.svg) | ![pause](./icons/pause/pause.svg) |
 | pen | [/icons/pen.svg](./icons/pen.svg) | ![pen](./icons/pen.svg) |
 | pencil.line | [/icons/pencil/pencil-line.svg](./icons/pencil/pencil-line.svg) | ![pencil.line](./icons/pencil/pencil-line.svg) |
 | pencil | [/icons/pencil/pencil.svg](./icons/pencil/pencil.svg) | ![pencil](./icons/pencil/pencil.svg) |
@@ -379,6 +389,10 @@ Generated on 2026-06-13T05:32:06.413Z
 | signal.medium | [/icons/signal/signal-medium.svg](./icons/signal/signal-medium.svg) | ![signal.medium](./icons/signal/signal-medium.svg) |
 | signal.zero | [/icons/signal/signal-zero.svg](./icons/signal/signal-zero.svg) | ![signal.zero](./icons/signal/signal-zero.svg) |
 | signal | [/icons/signal/signal.svg](./icons/signal/signal.svg) | ![signal](./icons/signal/signal.svg) |
+| skip.backwards.fill | [/icons/skip/skip-backwards-fill.svg](./icons/skip/skip-backwards-fill.svg) | ![skip.backwards.fill](./icons/skip/skip-backwards-fill.svg) |
+| skip.backwards | [/icons/skip/skip-backwards.svg](./icons/skip/skip-backwards.svg) | ![skip.backwards](./icons/skip/skip-backwards.svg) |
+| skip.forward.fill | [/icons/skip/skip-forward-fill.svg](./icons/skip/skip-forward-fill.svg) | ![skip.forward.fill](./icons/skip/skip-forward-fill.svg) |
+| skip.forward | [/icons/skip/skip-forward.svg](./icons/skip/skip-forward.svg) | ![skip.forward](./icons/skip/skip-forward.svg) |
 | slash.back.circle | [/icons/slash/slash-back-circle.svg](./icons/slash/slash-back-circle.svg) | ![slash.back.circle](./icons/slash/slash-back-circle.svg) |
 | slash.back.square | [/icons/slash/slash-back-square.svg](./icons/slash/slash-back-square.svg) | ![slash.back.square](./icons/slash/slash-back-square.svg) |
 | slash.back | [/icons/slash/slash-back.svg](./icons/slash/slash-back.svg) | ![slash.back](./icons/slash/slash-back.svg) |
@@ -455,6 +469,7 @@ Generated on 2026-06-13T05:32:06.413Z
 | x.circle | [/icons/x/x-circle.svg](./icons/x/x-circle.svg) | ![x.circle](./icons/x/x-circle.svg) |
 | x.radical | [/icons/x/x-radical.svg](./icons/x/x-radical.svg) | ![x.radical](./icons/x/x-radical.svg) |
 | x.square | [/icons/x/x-square.svg](./icons/x/x-square.svg) | ![x.square](./icons/x/x-square.svg) |
+| x.sub | [/icons/x/x-sub.svg](./icons/x/x-sub.svg) | ![x.sub](./icons/x/x-sub.svg) |
 | x.sup.2 | [/icons/x/x-sup-2.svg](./icons/x/x-sup-2.svg) | ![x.sup.2](./icons/x/x-sup-2.svg) |
 | x.sup | [/icons/x/x-sup.svg](./icons/x/x-sup.svg) | ![x.sup](./icons/x/x-sup.svg) |
 | x | [/icons/x/x.svg](./icons/x/x.svg) | ![x](./icons/x/x.svg) |
