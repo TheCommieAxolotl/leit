@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-07-09T12:13:40.054Z
+Generated on 2026-07-11T07:08:53.752Z
 
 ---
 
@@ -20,6 +20,8 @@ Generated on 2026-07-09T12:13:40.054Z
 | alpha | [/icons/alpha/alpha.svg](./icons/alpha/alpha.svg) | ![alpha](./icons/alpha/alpha.svg) |
 | alt | [/icons/alt.svg](./icons/alt.svg) | ![alt](./icons/alt.svg) |
 | ampersand | [/icons/ampersand.svg](./icons/ampersand.svg) | ![ampersand](./icons/ampersand.svg) |
+| archive.open | [/icons/archive/archive-open.svg](./icons/archive/archive-open.svg) | ![archive.open](./icons/archive/archive-open.svg) |
+| archive | [/icons/archive/archive.svg](./icons/archive/archive.svg) | ![archive](./icons/archive/archive.svg) |
 | arrow.both.nesw | [/icons/arrow/arrow-both-nesw.svg](./icons/arrow/arrow-both-nesw.svg) | ![arrow.both.nesw](./icons/arrow/arrow-both-nesw.svg) |
 | arrow.both.nwse | [/icons/arrow/arrow-both-nwse.svg](./icons/arrow/arrow-both-nwse.svg) | ![arrow.both.nwse](./icons/arrow/arrow-both-nwse.svg) |
 | arrow.both.x | [/icons/arrow/arrow-both-x.svg](./icons/arrow/arrow-both-x.svg) | ![arrow.both.x](./icons/arrow/arrow-both-x.svg) |
@@ -388,7 +390,7 @@ Generated on 2026-07-09T12:13:40.054Z
 | puzzlepiece.bothends | [/icons/puzzlepiece/puzzlepiece-bothends.svg](./icons/puzzlepiece/puzzlepiece-bothends.svg) | ![puzzlepiece.bothends](./icons/puzzlepiece/puzzlepiece-bothends.svg) |
 | puzzlepiece | [/icons/puzzlepiece/puzzlepiece.svg](./icons/puzzlepiece/puzzlepiece.svg) | ![puzzlepiece](./icons/puzzlepiece/puzzlepiece.svg) |
 | qrcode | [/icons/qrcode.svg](./icons/qrcode.svg) | ![qrcode](./icons/qrcode.svg) |
-| recieve | [/icons/recieve.svg](./icons/recieve.svg) | ![recieve](./icons/recieve.svg) |
+| receive | [/icons/receive.svg](./icons/receive.svg) | ![receive](./icons/receive.svg) |
 | rectangle.fill | [/icons/rectangle/rectangle-fill.svg](./icons/rectangle/rectangle-fill.svg) | ![rectangle.fill](./icons/rectangle/rectangle-fill.svg) |
 | rectangle.shade | [/icons/rectangle/rectangle-shade.svg](./icons/rectangle/rectangle-shade.svg) | ![rectangle.shade](./icons/rectangle/rectangle-shade.svg) |
 | rectangle.vertical.fill | [/icons/rectangle/rectangle-vertical-fill.svg](./icons/rectangle/rectangle-vertical-fill.svg) | ![rectangle.vertical.fill](./icons/rectangle/rectangle-vertical-fill.svg) |
@@ -403,6 +405,8 @@ Generated on 2026-07-09T12:13:40.054Z
 | rho.capital | [/icons/rho/rho-capital.svg](./icons/rho/rho-capital.svg) | ![rho.capital](./icons/rho/rho-capital.svg) |
 | rho | [/icons/rho/rho.svg](./icons/rho/rho.svg) | ![rho](./icons/rho/rho.svg) |
 | ruler | [/icons/ruler.svg](./icons/ruler.svg) | ![ruler](./icons/ruler.svg) |
+| save.off | [/icons/save/save-off.svg](./icons/save/save-off.svg) | ![save.off](./icons/save/save-off.svg) |
+| save | [/icons/save/save.svg](./icons/save/save.svg) | ![save](./icons/save/save.svg) |
 | scan.qr | [/icons/scan/scan-qr.svg](./icons/scan/scan-qr.svg) | ![scan.qr](./icons/scan/scan-qr.svg) |
 | scan | [/icons/scan/scan.svg](./icons/scan/scan.svg) | ![scan](./icons/scan/scan.svg) |
 | search | [/icons/search.svg](./icons/search.svg) | ![search](./icons/search.svg) |
