@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-07-11T07:43:31.790Z
+Generated on 2026-08-24T07:44:11.599Z
 
 ---
 
@@ -428,6 +428,7 @@ Generated on 2026-07-11T07:43:31.790Z
 | signal.medium | [/icons/signal/signal-medium.svg](./icons/signal/signal-medium.svg) | ![signal.medium](./icons/signal/signal-medium.svg) |
 | signal.zero | [/icons/signal/signal-zero.svg](./icons/signal/signal-zero.svg) | ![signal.zero](./icons/signal/signal-zero.svg) |
 | signal | [/icons/signal/signal.svg](./icons/signal/signal.svg) | ![signal](./icons/signal/signal.svg) |
+| signature | [/icons/signature.svg](./icons/signature.svg) | ![signature](./icons/signature.svg) |
 | skip.backwards.fill | [/icons/skip/skip-backwards-fill.svg](./icons/skip/skip-backwards-fill.svg) | ![skip.backwards.fill](./icons/skip/skip-backwards-fill.svg) |
 | skip.backwards | [/icons/skip/skip-backwards.svg](./icons/skip/skip-backwards.svg) | ![skip.backwards](./icons/skip/skip-backwards.svg) |
 | skip.forward.fill | [/icons/skip/skip-forward-fill.svg](./icons/skip/skip-forward-fill.svg) | ![skip.forward.fill](./icons/skip/skip-forward-fill.svg) |

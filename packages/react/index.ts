@@ -420,6 +420,7 @@ export { default as SignalLow } from "./components/SignalLow";
 export { default as SignalMedium } from "./components/SignalMedium";
 export { default as SignalZero } from "./components/SignalZero";
 export { default as Signal } from "./components/Signal";
+export { default as Signature } from "./components/Signature";
 export { default as SkipBackwardsFill } from "./components/SkipBackwardsFill";
 export { default as SkipBackwards } from "./components/SkipBackwards";
 export { default as SkipForwardFill } from "./components/SkipForwardFill";
