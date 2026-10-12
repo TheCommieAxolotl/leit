@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-08-24T07:44:11.599Z
+Generated on 2026-10-12T09:02:39.660Z
 
 ---
 
@@ -257,6 +257,13 @@ Generated on 2026-08-24T07:44:11.599Z
 | gamma.capital | [/icons/gamma/gamma-capital.svg](./icons/gamma/gamma-capital.svg) | ![gamma.capital](./icons/gamma/gamma-capital.svg) |
 | gamma | [/icons/gamma/gamma.svg](./icons/gamma/gamma.svg) | ![gamma](./icons/gamma/gamma.svg) |
 | gear | [/icons/gear.svg](./icons/gear.svg) | ![gear](./icons/gear.svg) |
+| git.branch | [/icons/git/git-branch.svg](./icons/git/git-branch.svg) | ![git.branch](./icons/git/git-branch.svg) |
+| git.commit | [/icons/git/git-commit.svg](./icons/git/git-commit.svg) | ![git.commit](./icons/git/git-commit.svg) |
+| git.pull | [/icons/git/git-pull.svg](./icons/git/git-pull.svg) | ![git.pull](./icons/git/git-pull.svg) |
+| git.push | [/icons/git/git-push.svg](./icons/git/git-push.svg) | ![git.push](./icons/git/git-push.svg) |
+| git.repository.clone | [/icons/git/git-repository-clone.svg](./icons/git/git-repository-clone.svg) | ![git.repository.clone](./icons/git/git-repository-clone.svg) |
+| git.repository.contribute | [/icons/git/git-repository-contribute.svg](./icons/git/git-repository-contribute.svg) | ![git.repository.contribute](./icons/git/git-repository-contribute.svg) |
+| git.repository | [/icons/git/git-repository.svg](./icons/git/git-repository.svg) | ![git.repository](./icons/git/git-repository.svg) |
 | globe | [/icons/globe.svg](./icons/globe.svg) | ![globe](./icons/globe.svg) |
 | graph.exponential | [/icons/graph/graph-exponential.svg](./icons/graph/graph-exponential.svg) | ![graph.exponential](./icons/graph/graph-exponential.svg) |
 | graph.hyperbola | [/icons/graph/graph-hyperbola.svg](./icons/graph/graph-hyperbola.svg) | ![graph.hyperbola](./icons/graph/graph-hyperbola.svg) |
