@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-10-12T09:02:39.660Z
+Generated on 2026-10-13T07:16:13.973Z
 
 ---
 
@@ -111,6 +111,8 @@ Generated on 2026-10-12T09:02:39.660Z
 | brackets.angle | [/icons/brackets/brackets-angle.svg](./icons/brackets/brackets-angle.svg) | ![brackets.angle](./icons/brackets/brackets-angle.svg) |
 | brackets.square | [/icons/brackets/brackets-square.svg](./icons/brackets/brackets-square.svg) | ![brackets.square](./icons/brackets/brackets-square.svg) |
 | brackets | [/icons/brackets/brackets.svg](./icons/brackets/brackets.svg) | ![brackets](./icons/brackets/brackets.svg) |
+| branch | [/icons/branch.svg](./icons/branch.svg) | ![branch](./icons/branch.svg) |
+| bug | [/icons/bug.svg](./icons/bug.svg) | ![bug](./icons/bug.svg) |
 | calendar.empty | [/icons/calendar/calendar-empty.svg](./icons/calendar/calendar-empty.svg) | ![calendar.empty](./icons/calendar/calendar-empty.svg) |
 | calendar.minus | [/icons/calendar/calendar-minus.svg](./icons/calendar/calendar-minus.svg) | ![calendar.minus](./icons/calendar/calendar-minus.svg) |
 | calendar.plus | [/icons/calendar/calendar-plus.svg](./icons/calendar/calendar-plus.svg) | ![calendar.plus](./icons/calendar/calendar-plus.svg) |
@@ -178,6 +180,7 @@ Generated on 2026-10-12T09:02:39.660Z
 | cog | [/icons/cog.svg](./icons/cog.svg) | ![cog](./icons/cog.svg) |
 | collapse | [/icons/collapse.svg](./icons/collapse.svg) | ![collapse](./icons/collapse.svg) |
 | command | [/icons/command.svg](./icons/command.svg) | ![command](./icons/command.svg) |
+| commit | [/icons/commit.svg](./icons/commit.svg) | ![commit](./icons/commit.svg) |
 | control | [/icons/control.svg](./icons/control.svg) | ![control](./icons/control.svg) |
 | copy | [/icons/copy.svg](./icons/copy.svg) | ![copy](./icons/copy.svg) |
 | cpu | [/icons/cpu.svg](./icons/cpu.svg) | ![cpu](./icons/cpu.svg) |
@@ -239,6 +242,7 @@ Generated on 2026-10-12T09:02:39.660Z
 | fast.forward.fill | [/icons/fast/fast-forward-fill.svg](./icons/fast/fast-forward-fill.svg) | ![fast.forward.fill](./icons/fast/fast-forward-fill.svg) |
 | fast.forward | [/icons/fast/fast-forward.svg](./icons/fast/fast-forward.svg) | ![fast.forward](./icons/fast/fast-forward.svg) |
 | file.a | [/icons/file/file-a.svg](./icons/file/file-a.svg) | ![file.a](./icons/file/file-a.svg) |
+| file.diff | [/icons/file/file-diff.svg](./icons/file/file-diff.svg) | ![file.diff](./icons/file/file-diff.svg) |
 | file.minus | [/icons/file/file-minus.svg](./icons/file/file-minus.svg) | ![file.minus](./icons/file/file-minus.svg) |
 | file.plus | [/icons/file/file-plus.svg](./icons/file/file-plus.svg) | ![file.plus](./icons/file/file-plus.svg) |
 | file.text | [/icons/file/file-text.svg](./icons/file/file-text.svg) | ![file.text](./icons/file/file-text.svg) |
@@ -257,13 +261,7 @@ Generated on 2026-10-12T09:02:39.660Z
 | gamma.capital | [/icons/gamma/gamma-capital.svg](./icons/gamma/gamma-capital.svg) | ![gamma.capital](./icons/gamma/gamma-capital.svg) |
 | gamma | [/icons/gamma/gamma.svg](./icons/gamma/gamma.svg) | ![gamma](./icons/gamma/gamma.svg) |
 | gear | [/icons/gear.svg](./icons/gear.svg) | ![gear](./icons/gear.svg) |
-| git.branch | [/icons/git/git-branch.svg](./icons/git/git-branch.svg) | ![git.branch](./icons/git/git-branch.svg) |
-| git.commit | [/icons/git/git-commit.svg](./icons/git/git-commit.svg) | ![git.commit](./icons/git/git-commit.svg) |
-| git.pull | [/icons/git/git-pull.svg](./icons/git/git-pull.svg) | ![git.pull](./icons/git/git-pull.svg) |
-| git.push | [/icons/git/git-push.svg](./icons/git/git-push.svg) | ![git.push](./icons/git/git-push.svg) |
-| git.repository.clone | [/icons/git/git-repository-clone.svg](./icons/git/git-repository-clone.svg) | ![git.repository.clone](./icons/git/git-repository-clone.svg) |
-| git.repository.contribute | [/icons/git/git-repository-contribute.svg](./icons/git/git-repository-contribute.svg) | ![git.repository.contribute](./icons/git/git-repository-contribute.svg) |
-| git.repository | [/icons/git/git-repository.svg](./icons/git/git-repository.svg) | ![git.repository](./icons/git/git-repository.svg) |
+| git | [/icons/git.svg](./icons/git.svg) | ![git](./icons/git.svg) |
 | globe | [/icons/globe.svg](./icons/globe.svg) | ![globe](./icons/globe.svg) |
 | graph.exponential | [/icons/graph/graph-exponential.svg](./icons/graph/graph-exponential.svg) | ![graph.exponential](./icons/graph/graph-exponential.svg) |
 | graph.hyperbola | [/icons/graph/graph-hyperbola.svg](./icons/graph/graph-hyperbola.svg) | ![graph.hyperbola](./icons/graph/graph-hyperbola.svg) |
@@ -395,10 +393,13 @@ Generated on 2026-10-12T09:02:39.660Z
 | play.fill | [/icons/play/play-fill.svg](./icons/play/play-fill.svg) | ![play.fill](./icons/play/play-fill.svg) |
 | play | [/icons/play/play.svg](./icons/play/play.svg) | ![play](./icons/play/play.svg) |
 | plus.circle | [/icons/plus/plus-circle.svg](./icons/plus/plus-circle.svg) | ![plus.circle](./icons/plus/plus-circle.svg) |
+| plus.minus | [/icons/plus/plus-minus.svg](./icons/plus/plus-minus.svg) | ![plus.minus](./icons/plus/plus-minus.svg) |
 | plus.square | [/icons/plus/plus-square.svg](./icons/plus/plus-square.svg) | ![plus.square](./icons/plus/plus-square.svg) |
 | plus | [/icons/plus/plus.svg](./icons/plus/plus.svg) | ![plus](./icons/plus/plus.svg) |
 | psi.capital | [/icons/psi/psi-capital.svg](./icons/psi/psi-capital.svg) | ![psi.capital](./icons/psi/psi-capital.svg) |
 | psi | [/icons/psi/psi.svg](./icons/psi/psi.svg) | ![psi](./icons/psi/psi.svg) |
+| pull | [/icons/pull.svg](./icons/pull.svg) | ![pull](./icons/pull.svg) |
+| push | [/icons/push.svg](./icons/push.svg) | ![push](./icons/push.svg) |
 | puzzlepiece.bothends | [/icons/puzzlepiece/puzzlepiece-bothends.svg](./icons/puzzlepiece/puzzlepiece-bothends.svg) | ![puzzlepiece.bothends](./icons/puzzlepiece/puzzlepiece-bothends.svg) |
 | puzzlepiece | [/icons/puzzlepiece/puzzlepiece.svg](./icons/puzzlepiece/puzzlepiece.svg) | ![puzzlepiece](./icons/puzzlepiece/puzzlepiece.svg) |
 | qrcode | [/icons/qrcode.svg](./icons/qrcode.svg) | ![qrcode](./icons/qrcode.svg) |
@@ -412,6 +413,9 @@ Generated on 2026-10-12T09:02:39.660Z
 | regex | [/icons/regex.svg](./icons/regex.svg) | ![regex](./icons/regex.svg) |
 | reload.ccw | [/icons/reload/reload-ccw.svg](./icons/reload/reload-ccw.svg) | ![reload.ccw](./icons/reload/reload-ccw.svg) |
 | reload.cw | [/icons/reload/reload-cw.svg](./icons/reload/reload-cw.svg) | ![reload.cw](./icons/reload/reload-cw.svg) |
+| repository.clone | [/icons/repository/repository-clone.svg](./icons/repository/repository-clone.svg) | ![repository.clone](./icons/repository/repository-clone.svg) |
+| repository.contribute | [/icons/repository/repository-contribute.svg](./icons/repository/repository-contribute.svg) | ![repository.contribute](./icons/repository/repository-contribute.svg) |
+| repository | [/icons/repository/repository.svg](./icons/repository/repository.svg) | ![repository](./icons/repository/repository.svg) |
 | return.right | [/icons/return/return-right.svg](./icons/return/return-right.svg) | ![return.right](./icons/return/return-right.svg) |
 | return | [/icons/return/return.svg](./icons/return/return.svg) | ![return](./icons/return/return.svg) |
 | rho.capital | [/icons/rho/rho-capital.svg](./icons/rho/rho-capital.svg) | ![rho.capital](./icons/rho/rho-capital.svg) |
