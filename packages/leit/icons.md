@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-10-13T07:16:13.973Z
+Generated on 2026-10-29T10:12:09.440Z
 
 ---
 
@@ -93,12 +93,16 @@ Generated on 2026-10-13T07:16:13.973Z
 | beaker.fill | [/icons/beaker/beaker-fill.svg](./icons/beaker/beaker-fill.svg) | ![beaker.fill](./icons/beaker/beaker-fill.svg) |
 | beaker | [/icons/beaker/beaker.svg](./icons/beaker/beaker.svg) | ![beaker](./icons/beaker/beaker.svg) |
 | because | [/icons/because.svg](./icons/because.svg) | ![because](./icons/because.svg) |
+| bell.fill | [/icons/bell/bell-fill.svg](./icons/bell/bell-fill.svg) | ![bell.fill](./icons/bell/bell-fill.svg) |
+| bell | [/icons/bell/bell.svg](./icons/bell/bell.svg) | ![bell](./icons/bell/bell.svg) |
 | beta.capital | [/icons/beta/beta-capital.svg](./icons/beta/beta-capital.svg) | ![beta.capital](./icons/beta/beta-capital.svg) |
 | beta | [/icons/beta/beta.svg](./icons/beta/beta.svg) | ![beta](./icons/beta/beta.svg) |
 | bluetooth.off | [/icons/bluetooth/bluetooth-off.svg](./icons/bluetooth/bluetooth-off.svg) | ![bluetooth.off](./icons/bluetooth/bluetooth-off.svg) |
 | bluetooth | [/icons/bluetooth/bluetooth.svg](./icons/bluetooth/bluetooth.svg) | ![bluetooth](./icons/bluetooth/bluetooth.svg) |
 | bold.emphasis | [/icons/bold/bold-emphasis.svg](./icons/bold/bold-emphasis.svg) | ![bold.emphasis](./icons/bold/bold-emphasis.svg) |
 | bold | [/icons/bold/bold.svg](./icons/bold/bold.svg) | ![bold](./icons/bold/bold.svg) |
+| bolt.fill | [/icons/bolt/bolt-fill.svg](./icons/bolt/bolt-fill.svg) | ![bolt.fill](./icons/bolt/bolt-fill.svg) |
+| bolt | [/icons/bolt/bolt.svg](./icons/bolt/bolt.svg) | ![bolt](./icons/bolt/bolt.svg) |
 | book.a | [/icons/book/book-a.svg](./icons/book/book-a.svg) | ![book.a](./icons/book/book-a.svg) |
 | book.minus | [/icons/book/book-minus.svg](./icons/book/book-minus.svg) | ![book.minus](./icons/book/book-minus.svg) |
 | book.open | [/icons/book/book-open.svg](./icons/book/book-open.svg) | ![book.open](./icons/book/book-open.svg) |
@@ -220,6 +224,10 @@ Generated on 2026-10-13T07:16:13.973Z
 | easing.inout | [/icons/easing/easing-inout.svg](./icons/easing/easing-inout.svg) | ![easing.inout](./icons/easing/easing-inout.svg) |
 | easing.linear | [/icons/easing/easing-linear.svg](./icons/easing/easing-linear.svg) | ![easing.linear](./icons/easing/easing-linear.svg) |
 | easing.out | [/icons/easing/easing-out.svg](./icons/easing/easing-out.svg) | ![easing.out](./icons/easing/easing-out.svg) |
+| egg.fill | [/icons/egg/egg-fill.svg](./icons/egg/egg-fill.svg) | ![egg.fill](./icons/egg/egg-fill.svg) |
+| egg | [/icons/egg/egg.svg](./icons/egg/egg.svg) | ![egg](./icons/egg/egg.svg) |
+| envelope.open | [/icons/envelope/envelope-open.svg](./icons/envelope/envelope-open.svg) | ![envelope.open](./icons/envelope/envelope-open.svg) |
+| envelope | [/icons/envelope/envelope.svg](./icons/envelope/envelope.svg) | ![envelope](./icons/envelope/envelope.svg) |
 | epsilon.capital | [/icons/epsilon/epsilon-capital.svg](./icons/epsilon/epsilon-capital.svg) | ![epsilon.capital](./icons/epsilon/epsilon-capital.svg) |
 | epsilon | [/icons/epsilon/epsilon.svg](./icons/epsilon/epsilon.svg) | ![epsilon](./icons/epsilon/epsilon.svg) |
 | equal.approximately | [/icons/equal/equal-approximately.svg](./icons/equal/equal-approximately.svg) | ![equal.approximately](./icons/equal/equal-approximately.svg) |
@@ -249,6 +257,8 @@ Generated on 2026-10-13T07:16:13.973Z
 | file | [/icons/file/file.svg](./icons/file/file.svg) | ![file](./icons/file/file.svg) |
 | filter | [/icons/filter.svg](./icons/filter.svg) | ![filter](./icons/filter.svg) |
 | fire | [/icons/fire.svg](./icons/fire.svg) | ![fire](./icons/fire.svg) |
+| flag.fill | [/icons/flag/flag-fill.svg](./icons/flag/flag-fill.svg) | ![flag.fill](./icons/flag/flag-fill.svg) |
+| flag | [/icons/flag/flag.svg](./icons/flag/flag.svg) | ![flag](./icons/flag/flag.svg) |
 | flask | [/icons/flask.svg](./icons/flask.svg) | ![flask](./icons/flask.svg) |
 | folder.a | [/icons/folder/folder-a.svg](./icons/folder/folder-a.svg) | ![folder.a](./icons/folder/folder-a.svg) |
 | folder.minus | [/icons/folder/folder-minus.svg](./icons/folder/folder-minus.svg) | ![folder.minus](./icons/folder/folder-minus.svg) |
@@ -271,6 +281,7 @@ Generated on 2026-10-13T07:16:13.973Z
 | graph | [/icons/graph/graph.svg](./icons/graph/graph.svg) | ![graph](./icons/graph/graph.svg) |
 | grid.2x2 | [/icons/grid/grid-2x2.svg](./icons/grid/grid-2x2.svg) | ![grid.2x2](./icons/grid/grid-2x2.svg) |
 | grid.3x3 | [/icons/grid/grid-3x3.svg](./icons/grid/grid-3x3.svg) | ![grid.3x3](./icons/grid/grid-3x3.svg) |
+| hammer | [/icons/hammer.svg](./icons/hammer.svg) | ![hammer](./icons/hammer.svg) |
 | hash | [/icons/hash.svg](./icons/hash.svg) | ![hash](./icons/hash.svg) |
 | heart.fill | [/icons/heart/heart-fill.svg](./icons/heart/heart-fill.svg) | ![heart.fill](./icons/heart/heart-fill.svg) |
 | heart.shade | [/icons/heart/heart-shade.svg](./icons/heart/heart-shade.svg) | ![heart.shade](./icons/heart/heart-shade.svg) |
@@ -317,6 +328,7 @@ Generated on 2026-10-13T07:16:13.973Z
 | list | [/icons/list/list.svg](./icons/list/list.svg) | ![list](./icons/list/list.svg) |
 | lock.open | [/icons/lock/lock-open.svg](./icons/lock/lock-open.svg) | ![lock.open](./icons/lock/lock-open.svg) |
 | lock | [/icons/lock/lock.svg](./icons/lock/lock.svg) | ![lock](./icons/lock/lock.svg) |
+| map | [/icons/map.svg](./icons/map.svg) | ![map](./icons/map.svg) |
 | match | [/icons/match.svg](./icons/match.svg) | ![match](./icons/match.svg) |
 | matrix.1x2 | [/icons/matrix/matrix-1x2.svg](./icons/matrix/matrix-1x2.svg) | ![matrix.1x2](./icons/matrix/matrix-1x2.svg) |
 | matrix.2x2 | [/icons/matrix/matrix-2x2.svg](./icons/matrix/matrix-2x2.svg) | ![matrix.2x2](./icons/matrix/matrix-2x2.svg) |
@@ -340,6 +352,7 @@ Generated on 2026-10-13T07:16:13.973Z
 | more | [/icons/more/more.svg](./icons/more/more.svg) | ![more](./icons/more/more.svg) |
 | mu.capital | [/icons/mu/mu-capital.svg](./icons/mu/mu-capital.svg) | ![mu.capital](./icons/mu/mu-capital.svg) |
 | mu | [/icons/mu/mu.svg](./icons/mu/mu.svg) | ![mu](./icons/mu/mu.svg) |
+| musicnote | [/icons/musicnote.svg](./icons/musicnote.svg) | ![musicnote](./icons/musicnote.svg) |
 | nib | [/icons/nib.svg](./icons/nib.svg) | ![nib](./icons/nib.svg) |
 | nu.capital | [/icons/nu/nu-capital.svg](./icons/nu/nu-capital.svg) | ![nu.capital](./icons/nu/nu-capital.svg) |
 | nu | [/icons/nu/nu.svg](./icons/nu/nu.svg) | ![nu](./icons/nu/nu.svg) |
@@ -460,6 +473,7 @@ Generated on 2026-10-13T07:16:13.973Z
 | square.fill | [/icons/square/square-fill.svg](./icons/square/square-fill.svg) | ![square.fill](./icons/square/square-fill.svg) |
 | square.shade | [/icons/square/square-shade.svg](./icons/square/square-shade.svg) | ![square.shade](./icons/square/square-shade.svg) |
 | square | [/icons/square/square.svg](./icons/square/square.svg) | ![square](./icons/square/square.svg) |
+| stack | [/icons/stack.svg](./icons/stack.svg) | ![stack](./icons/stack.svg) |
 | star.fill | [/icons/star/star-fill.svg](./icons/star/star-fill.svg) | ![star.fill](./icons/star/star-fill.svg) |
 | star.shade | [/icons/star/star-shade.svg](./icons/star/star-shade.svg) | ![star.shade](./icons/star/star-shade.svg) |
 | star | [/icons/star/star.svg](./icons/star/star.svg) | ![star](./icons/star/star.svg) |
@@ -480,6 +494,7 @@ Generated on 2026-10-13T07:16:13.973Z
 | ticket | [/icons/ticket/ticket.svg](./icons/ticket/ticket.svg) | ![ticket](./icons/ticket/ticket.svg) |
 | tilde | [/icons/tilde.svg](./icons/tilde.svg) | ![tilde](./icons/tilde.svg) |
 | trash | [/icons/trash.svg](./icons/trash.svg) | ![trash](./icons/trash.svg) |
+| tray | [/icons/tray.svg](./icons/tray.svg) | ![tray](./icons/tray.svg) |
 | tree.dead | [/icons/tree/tree-dead.svg](./icons/tree/tree-dead.svg) | ![tree.dead](./icons/tree/tree-dead.svg) |
 | tree.pine | [/icons/tree/tree-pine.svg](./icons/tree/tree-pine.svg) | ![tree.pine](./icons/tree/tree-pine.svg) |
 | tree | [/icons/tree/tree.svg](./icons/tree/tree.svg) | ![tree](./icons/tree/tree.svg) |
