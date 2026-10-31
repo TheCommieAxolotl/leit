@@ -1,6 +1,6 @@
 # Leit Icons
 
-Generated on 2026-10-29T10:12:09.440Z
+Generated on 2026-10-31T08:19:24.089Z
 
 ---
 
@@ -81,6 +81,7 @@ Generated on 2026-10-29T10:12:09.440Z
 | asterisk | [/icons/asterisk/asterisk.svg](./icons/asterisk/asterisk.svg) | ![asterisk](./icons/asterisk/asterisk.svg) |
 | at | [/icons/at.svg](./icons/at.svg) | ![at](./icons/at.svg) |
 | atom | [/icons/atom.svg](./icons/atom.svg) | ![atom](./icons/atom.svg) |
+| barbell | [/icons/barbell.svg](./icons/barbell.svg) | ![barbell](./icons/barbell.svg) |
 | barn | [/icons/barn.svg](./icons/barn.svg) | ![barn](./icons/barn.svg) |
 | battery.00.off | [/icons/battery/battery-00-off.svg](./icons/battery/battery-00-off.svg) | ![battery.00.off](./icons/battery/battery-00-off.svg) |
 | battery.00 | [/icons/battery/battery-00.svg](./icons/battery/battery-00.svg) | ![battery.00](./icons/battery/battery-00.svg) |
@@ -315,6 +316,7 @@ Generated on 2026-10-29T10:12:09.440Z
 | layers | [/icons/layers.svg](./icons/layers.svg) | ![layers](./icons/layers.svg) |
 | leaf | [/icons/leaf.svg](./icons/leaf.svg) | ![leaf](./icons/leaf.svg) |
 | library | [/icons/library.svg](./icons/library.svg) | ![library](./icons/library.svg) |
+| lightbulb | [/icons/lightbulb.svg](./icons/lightbulb.svg) | ![lightbulb](./icons/lightbulb.svg) |
 | line.end.circle | [/icons/line/line-end-circle.svg](./icons/line/line-end-circle.svg) | ![line.end.circle](./icons/line/line-end-circle.svg) |
 | line.end.diamond | [/icons/line/line-end-diamond.svg](./icons/line/line-end-diamond.svg) | ![line.end.diamond](./icons/line/line-end-diamond.svg) |
 | line.end.square | [/icons/line/line-end-square.svg](./icons/line/line-end-square.svg) | ![line.end.square](./icons/line/line-end-square.svg) |
@@ -402,6 +404,8 @@ Generated on 2026-10-29T10:12:09.440Z
 | picture | [/icons/picture/picture.svg](./icons/picture/picture.svg) | ![picture](./icons/picture/picture.svg) |
 | pilcrow | [/icons/pilcrow.svg](./icons/pilcrow.svg) | ![pilcrow](./icons/pilcrow.svg) |
 | pin | [/icons/pin.svg](./icons/pin.svg) | ![pin](./icons/pin.svg) |
+| pizza | [/icons/pizza.svg](./icons/pizza.svg) | ![pizza](./icons/pizza.svg) |
+| plane | [/icons/plane.svg](./icons/plane.svg) | ![plane](./icons/plane.svg) |
 | planet | [/icons/planet.svg](./icons/planet.svg) | ![planet](./icons/planet.svg) |
 | play.fill | [/icons/play/play-fill.svg](./icons/play/play-fill.svg) | ![play.fill](./icons/play/play-fill.svg) |
 | play | [/icons/play/play.svg](./icons/play/play.svg) | ![play](./icons/play/play.svg) |
